@@ -9,21 +9,11 @@
             "ioValues": [],
             "topLevel": true,
             "allAtoms": [
-                "{\"atomType\":\"Circle\",\"name\":\"Circle\",\"x\":119,\"y\":80,\"uniqueID\":137560,\"ioValues\":[{\"name\":\"radius\",\"ioValue\":10},{\"name\":\"max segment size\",\"ioValue\":1}]}",
-                "{\"atomType\":\"Rectangle\",\"name\":\"Rectangle\",\"x\":134,\"y\":186,\"uniqueID\":294504,\"ioValues\":[{\"name\":\"x length\",\"ioValue\":10},{\"name\":\"y length\",\"ioValue\":10}]}",
-                "{\"atomType\":\"Extrude\",\"name\":\"Extrude\",\"x\":251,\"y\":70,\"uniqueID\":373264,\"ioValues\":[{\"name\":\"height\",\"ioValue\":10}]}",
-                "{\"atomType\":\"Extrude\",\"name\":\"Extrude\",\"x\":279,\"y\":156,\"uniqueID\":471288,\"ioValues\":[{\"name\":\"height\",\"ioValue\":10}]}",
-                "{\"atomType\":\"Translate\",\"name\":\"Translate\",\"x\":390,\"y\":67,\"uniqueID\":909651,\"ioValues\":[{\"name\":\"xDist\",\"ioValue\":0},{\"name\":\"yDist\",\"ioValue\":10},{\"name\":\"zDist\",\"ioValue\":10}]}",
                 "{\"atomType\":\"Output\",\"name\":\"Output\",\"x\":1010,\"y\":164,\"ioValues\":[]}",
-                "{\"atomType\":\"ShrinkWrap\",\"name\":\"Shrink Wrap\",\"x\":550,\"y\":125,\"uniqueID\":790717,\"ioValues\":[{\"name\":\"2D shape 219826\",\"ioValue\":10},{\"name\":\"2D shape 869452\",\"ioValue\":10},{\"name\":\"2D shape 902517\",\"ioValue\":10}],\"closedSelection\":0}"
+                "{\"atomType\":\"Circle\",\"name\":\"Circle\",\"x\":119,\"y\":80,\"uniqueID\":137560,\"ioValues\":[{\"name\":\"radius\",\"ioValue\":10},{\"name\":\"max segment size\",\"ioValue\":1}]}",
+                "{\"atomType\":\"Rectangle\",\"name\":\"Rectangle\",\"x\":134,\"y\":186,\"uniqueID\":294504,\"ioValues\":[{\"name\":\"x length\",\"ioValue\":10},{\"name\":\"y length\",\"ioValue\":10}]}"
             ],
-            "allConnectors": [
-                "{\"ap1Name\":\"geometry\",\"ap2Name\":\"geometry\",\"ap1ID\":137560,\"ap2ID\":373264}",
-                "{\"ap1Name\":\"geometry\",\"ap2Name\":\"geometry\",\"ap1ID\":294504,\"ap2ID\":471288}",
-                "{\"ap1Name\":\"geometry\",\"ap2Name\":\"geometry\",\"ap1ID\":373264,\"ap2ID\":909651}",
-                "{\"ap1Name\":\"geometry\",\"ap2Name\":\"2D shape 219826\",\"ap1ID\":471288,\"ap2ID\":790717}",
-                "{\"ap1Name\":\"geometry\",\"ap2Name\":\"2D shape 869452\",\"ap1ID\":909651,\"ap2ID\":790717}"
-            ]
+            "allConnectors": []
         }
     ]
 }
