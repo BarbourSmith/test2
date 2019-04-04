@@ -9,7 +9,8 @@
             "ioValues": [],
             "topLevel": true,
             "allAtoms": [
-                "{\"atomType\":\"Output\",\"name\":\"Output\",\"x\":1010,\"y\":164,\"ioValues\":[]}"
+                "{\"atomType\":\"Output\",\"name\":\"Output\",\"x\":1010,\"y\":164,\"ioValues\":[]}",
+                "{\"atomType\":\"Molecule\",\"name\":\"Export Test Molecule\",\"x\":429,\"y\":242,\"uniqueID\":636484,\"projectID\":\"179399724\"}"
             ],
             "allConnectors": []
         }
