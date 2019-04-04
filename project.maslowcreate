@@ -14,15 +14,16 @@
                 "{\"atomType\":\"Extrude\",\"name\":\"Extrude\",\"x\":243,\"y\":92,\"uniqueID\":402617,\"ioValues\":[{\"name\":\"height\",\"ioValue\":10}]}",
                 "{\"atomType\":\"Extrude\",\"name\":\"Extrude\",\"x\":266,\"y\":190,\"uniqueID\":500631,\"ioValues\":[{\"name\":\"height\",\"ioValue\":10}]}",
                 "{\"atomType\":\"Translate\",\"name\":\"Translate\",\"x\":373,\"y\":107,\"uniqueID\":343474,\"ioValues\":[{\"name\":\"xDist\",\"ioValue\":4},{\"name\":\"yDist\",\"ioValue\":7},{\"name\":\"zDist\",\"ioValue\":10}]}",
-                "{\"atomType\":\"Output\",\"name\":\"Output\",\"x\":1010,\"y\":164,\"ioValues\":[]}",
-                "{\"atomType\":\"ShrinkWrap\",\"name\":\"Shrink Wrap\",\"x\":593,\"y\":102,\"uniqueID\":298938,\"ioValues\":[{\"name\":\"2D shape 207428\",\"ioValue\":10},{\"name\":\"2D shape 240003\",\"ioValue\":10},{\"name\":\"2D shape 451118\",\"ioValue\":10}],\"closedSelection\":0}"
+                "{\"atomType\":\"ShrinkWrap\",\"name\":\"Shrink Wrap\",\"x\":593,\"y\":102,\"uniqueID\":298938,\"ioValues\":[{\"name\":\"2D shape 207428\",\"ioValue\":10},{\"name\":\"2D shape 240003\",\"ioValue\":10},{\"name\":\"2D shape 451118\",\"ioValue\":10}],\"closedSelection\":0}",
+                "{\"atomType\":\"Output\",\"name\":\"Output\",\"x\":1010,\"y\":164,\"ioValues\":[]}"
             ],
             "allConnectors": [
                 "{\"ap1Name\":\"geometry\",\"ap2Name\":\"geometry\",\"ap1ID\":137560,\"ap2ID\":402617}",
                 "{\"ap1Name\":\"geometry\",\"ap2Name\":\"geometry\",\"ap1ID\":294504,\"ap2ID\":500631}",
                 "{\"ap1Name\":\"geometry\",\"ap2Name\":\"geometry\",\"ap1ID\":402617,\"ap2ID\":343474}",
                 "{\"ap1Name\":\"geometry\",\"ap2Name\":\"2D shape 240003\",\"ap1ID\":500631,\"ap2ID\":298938}",
-                "{\"ap1Name\":\"geometry\",\"ap2Name\":\"2D shape 207428\",\"ap1ID\":343474,\"ap2ID\":298938}"
+                "{\"ap1Name\":\"geometry\",\"ap2Name\":\"2D shape 207428\",\"ap1ID\":343474,\"ap2ID\":298938}",
+                "{\"ap1Name\":\"geometry\",\"ap2Name\":\"number or geometry\",\"ap1ID\":298938}"
             ]
         }
     ]
