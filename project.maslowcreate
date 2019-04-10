@@ -23,7 +23,7 @@
                 "{\"ap1Name\":\"number\",\"ap2Name\":\"y length\",\"ap1ID\":650372,\"ap2ID\":294504}",
                 "{\"ap1Name\":\"geometry\",\"ap2Name\":\"geometry\",\"ap1ID\":402617,\"ap2ID\":847632}",
                 "{\"ap1Name\":\"geometry\",\"ap2Name\":\"geometry\",\"ap1ID\":294504,\"ap2ID\":500631}",
-                "{\"ap1Name\":\"geometry\",\"ap2Name\":\"number or geometry\",\"ap1ID\":847632}"
+                "{\"ap1Name\":\"geometry\",\"ap2Name\":\"number or geometry\",\"ap1ID\":500631}"
             ]
         }
     ]
