@@ -1,5 +1,8 @@
 # test2
 null
+
+![](/project.svg)
+
 ## Test 2
 
 
