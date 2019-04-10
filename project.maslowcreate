@@ -15,7 +15,7 @@
                 "{\"atomType\":\"Extrude\",\"name\":\"Extrude\",\"x\":309,\"y\":56,\"uniqueID\":402617,\"ioValues\":[{\"name\":\"height\",\"ioValue\":10}]}",
                 "{\"atomType\":\"Rectangle\",\"name\":\"Rectangle\",\"x\":384,\"y\":204.23333333333332,\"uniqueID\":294504,\"ioValues\":[{\"name\":\"x length\",\"ioValue\":10},{\"name\":\"y length\",\"ioValue\":10}]}",
                 "{\"atomType\":\"Extrude\",\"name\":\"Extrude\",\"x\":585,\"y\":175,\"uniqueID\":500631,\"ioValues\":[{\"name\":\"height\",\"ioValue\":10}]}",
-                "{\"atomType\":\"Output\",\"name\":\"Output\",\"x\":886,\"y\":164,\"ioValues\":[]}"
+                "{\"atomType\":\"Output\",\"name\":\"Output\",\"x\":876,\"y\":152,\"ioValues\":[]}"
             ],
             "allConnectors": [
                 "{\"ap1Name\":\"geometry\",\"ap2Name\":\"geometry\",\"ap1ID\":137560,\"ap2ID\":402617}",
