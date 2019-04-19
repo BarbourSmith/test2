@@ -91,33 +91,19 @@
                     ]
                 },
                 {
-                    "atomType": "ShrinkWrap",
-                    "name": "Shrink Wrap",
-                    "x": 700,
-                    "y": 141,
-                    "uniqueID": 117076,
-                    "ioValues": [
-                        {
-                            "name": "2D shape 413363",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "2D shape 318550",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "2D shape 771189",
-                            "ioValue": 10
-                        }
-                    ],
-                    "closedSelection": 0
+                    "atomType": "Tag",
+                    "name": "Add Tag",
+                    "x": 550,
+                    "y": 207,
+                    "uniqueID": 321747,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Tag",
                     "name": "Add Tag",
-                    "x": 887,
-                    "y": 126,
-                    "uniqueID": 321747,
+                    "x": 700,
+                    "y": 74,
+                    "uniqueID": 991509,
                     "ioValues": []
                 },
                 {
@@ -149,26 +135,15 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "2D shape 413363",
-                    "ap1ID": 308579,
-                    "ap2ID": 117076
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "2D shape 318550",
-                    "ap1ID": 345423,
-                    "ap2ID": 117076
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 117076,
+                    "ap1ID": 308579,
                     "ap2ID": 321747
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 321747
+                    "ap2Name": "geometry",
+                    "ap1ID": 345423,
+                    "ap2ID": 991509
                 }
             ]
         }
