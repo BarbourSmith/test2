@@ -96,12 +96,7 @@
                     "x": 323,
                     "y": 212,
                     "uniqueID": 321747,
-                    "ioValues": [
-                        {
-                            "name": "tag",
-                            "ioValue": null
-                        }
-                    ]
+                    "ioValues": []
                 },
                 {
                     "atomType": "Tag",
@@ -109,12 +104,7 @@
                     "x": 471,
                     "y": 96,
                     "uniqueID": 991509,
-                    "ioValues": [
-                        {
-                            "name": "tag",
-                            "ioValue": null
-                        }
-                    ]
+                    "ioValues": []
                 },
                 {
                     "atomType": "Union",
