@@ -46,8 +46,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 228,
-                    "y": 115,
+                    "x": 230.70222222222222,
+                    "y": 117.77955555555555,
                     "uniqueID": 224108,
                     "ioValues": [
                         {
@@ -72,8 +72,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 359,
-                    "y": 77,
+                    "x": 366.6951111111111,
+                    "y": 69.21066666666667,
                     "uniqueID": 345423,
                     "ioValues": [
                         {
@@ -83,10 +83,6 @@
                         {
                             "name": "yDist",
                             "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 100
                         }
                     ]
                 },
@@ -101,16 +97,16 @@
                 {
                     "atomType": "Tag",
                     "name": "Add Tag",
-                    "x": 511,
-                    "y": 90,
+                    "x": 519.6871111111111,
+                    "y": 78.92444444444445,
                     "uniqueID": 991509,
                     "ioValues": []
                 },
                 {
                     "atomType": "Union",
                     "name": "Union",
-                    "x": 635,
-                    "y": 156,
+                    "x": 681.1786666666667,
+                    "y": 165.1342222222222,
                     "uniqueID": 998856,
                     "ioValues": []
                 },
