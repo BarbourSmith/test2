@@ -86,7 +86,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 60
                         }
                     ]
                 },
@@ -117,7 +117,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1306,
+                    "x": 867,
                     "y": 164,
                     "ioValues": []
                 }
