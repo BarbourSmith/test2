@@ -91,19 +91,6 @@
                     ]
                 },
                 {
-                    "atomType": "Rectangle",
-                    "name": "Rectangle",
-                    "x": 476,
-                    "y": 108,
-                    "uniqueID": 611329,
-                    "ioValues": [
-                        {
-                            "name": "x length",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
                     "atomType": "Tag",
                     "name": "Add Tag",
                     "x": 467.21159420289854,
@@ -122,8 +109,8 @@
                 {
                     "atomType": "Union",
                     "name": "Union",
-                    "x": 759,
-                    "y": 60,
+                    "x": 851.2753623188406,
+                    "y": 172.89468599033816,
                     "uniqueID": 521197,
                     "ioValues": []
                 },
@@ -159,12 +146,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 345423,
                     "ap2ID": 991509
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "y length",
-                    "ap1ID": 345423,
-                    "ap2ID": 611329
                 },
                 {
                     "ap1Name": "geometry",
