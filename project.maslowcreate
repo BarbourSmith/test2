@@ -93,8 +93,8 @@
                 {
                     "atomType": "Tag",
                     "name": "Add Tag",
-                    "x": 323,
-                    "y": 212,
+                    "x": 367.7692307692308,
+                    "y": 198.47863247863248,
                     "uniqueID": 321747,
                     "ioValues": []
                 },
@@ -117,7 +117,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 867,
+                    "x": 930,
                     "y": 164,
                     "ioValues": []
                 }
