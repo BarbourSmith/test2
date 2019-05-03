@@ -57,19 +57,6 @@
                     ]
                 },
                 {
-                    "atomType": "Extrude",
-                    "name": "Extrude",
-                    "x": 201,
-                    "y": 211,
-                    "uniqueID": 308579,
-                    "ioValues": [
-                        {
-                            "name": "height",
-                            "ioValue": 100
-                        }
-                    ]
-                },
-                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 365.72254758418745,
@@ -86,15 +73,28 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 50
+                            "ioValue": 56
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 282.4386473429952,
+                    "y": 270.56038647342996,
+                    "uniqueID": 308579,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 100
                         }
                     ]
                 },
                 {
                     "atomType": "Tag",
                     "name": "Add Tag",
-                    "x": 367.7692307692308,
-                    "y": 198.47863247863248,
+                    "x": 467.21159420289854,
+                    "y": 178.17391304347825,
                     "uniqueID": 321747,
                     "ioValues": []
                 },
@@ -112,14 +112,6 @@
                     "x": 759,
                     "y": 60,
                     "uniqueID": 521197,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Intersection",
-                    "name": "Intersection",
-                    "x": 744.3710144927536,
-                    "y": 166.29565217391303,
-                    "uniqueID": 986293,
                     "ioValues": []
                 },
                 {
@@ -152,38 +144,26 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 308579,
-                    "ap2ID": 321747
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
                     "ap1ID": 345423,
                     "ap2ID": 991509
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 308579,
+                    "ap2ID": 321747
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "geometry1",
                     "ap1ID": 321747,
                     "ap2ID": 521197
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry1",
-                    "ap1ID": 321747,
-                    "ap2ID": 986293
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "geometry2",
                     "ap1ID": 991509,
                     "ap2ID": 521197
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry2",
-                    "ap1ID": 991509,
-                    "ap2ID": 986293
                 },
                 {
                     "ap1Name": "geometry",
