@@ -86,7 +86,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 60
+                            "ioValue": 50
                         }
                     ]
                 },
@@ -107,10 +107,18 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 742,
+                    "y": 163,
+                    "uniqueID": 339078,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Union",
                     "name": "Union",
-                    "x": 710,
-                    "y": 144,
+                    "x": 759,
+                    "y": 60,
                     "uniqueID": 521197,
                     "ioValues": []
                 },
@@ -161,9 +169,21 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry1",
+                    "ap1ID": 321747,
+                    "ap2ID": 339078
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "geometry2",
                     "ap1ID": 991509,
                     "ap2ID": 521197
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry2",
+                    "ap1ID": 991509,
+                    "ap2ID": 339078
                 },
                 {
                     "ap1Name": "geometry",
