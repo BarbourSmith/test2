@@ -115,15 +115,6 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Code",
-                    "name": "Code",
-                    "x": 778.6859903381643,
-                    "y": 203.25024154589372,
-                    "uniqueID": 336414,
-                    "ioValues": [],
-                    "code": "//Add an input\nThis.addIO('input', 'input name', This, 'geometry', 10);\n\n//Read back from the input\nThis.findIOValue('radius');\n\n//Set the output\nThis.value = 10;\n\n\nconsole.log(\"test\");"
-                },
-                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -167,12 +158,6 @@
                     "ap2Name": "geometry1",
                     "ap1ID": 321747,
                     "ap2ID": 521197
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "input name",
-                    "ap1ID": 321747,
-                    "ap2ID": 336414
                 },
                 {
                     "ap1Name": "geometry",
