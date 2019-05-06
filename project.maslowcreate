@@ -113,7 +113,15 @@
                     "y": 175.6687242798354,
                     "uniqueID": 169813,
                     "ioValues": [],
-                    "BOMlist": []
+                    "BOMlist": [
+                        {
+                            "BOMitemName": "Bolt",
+                            "numberNeeded": 1,
+                            "costUSD": 0.35,
+                            "source": "www.test.com",
+                            "totalNeeded": 0
+                        }
+                    ]
                 },
                 {
                     "atomType": "Union",
@@ -126,8 +134,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1077.90329218107,
-                    "y": 167.2366255144033,
+                    "x": 937,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
