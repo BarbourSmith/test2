@@ -101,16 +101,16 @@
                 {
                     "atomType": "Tag",
                     "name": "Add Tag",
-                    "x": 541,
-                    "y": 64,
+                    "x": 551,
+                    "y": 65,
                     "uniqueID": 991509,
                     "ioValues": []
                 },
                 {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
-                    "x": 614,
-                    "y": 109,
+                    "x": 619,
+                    "y": 108,
                     "uniqueID": 314117,
                     "ioValues": [
                         {
@@ -129,12 +129,25 @@
                     "closedSelection": 0
                 },
                 {
-                    "atomType": "Union",
-                    "name": "Union",
-                    "x": 788,
-                    "y": 128,
-                    "uniqueID": 521197,
-                    "ioValues": []
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 802,
+                    "y": 122,
+                    "uniqueID": 920693,
+                    "ioValues": [
+                        {
+                            "name": "2D shape 499094",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "2D shape 210027",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "2D shape 139884",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
                     "atomType": "Output",
@@ -177,21 +190,15 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry1",
-                    "ap1ID": 321747,
-                    "ap2ID": 521197
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "2D shape 600089",
                     "ap1ID": 321747,
                     "ap2ID": 314117
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry2",
-                    "ap1ID": 991509,
-                    "ap2ID": 521197
+                    "ap2Name": "2D shape 499094",
+                    "ap1ID": 321747,
+                    "ap2ID": 920693
                 },
                 {
                     "ap1Name": "geometry",
@@ -201,8 +208,14 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "2D shape 210027",
+                    "ap1ID": 991509,
+                    "ap2ID": 920693
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
-                    "ap1ID": 521197
+                    "ap1ID": 920693
                 }
             ]
         }
