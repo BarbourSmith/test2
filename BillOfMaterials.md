@@ -4,3 +4,5 @@
  |----|----------|-----|-----|
 |Bolt|1|0.35|www.test.com|
 |name|0|0|www.example.com|
+|name|0|0|www.example.com|
+|Bolt #2|2|0.64|www.test.com|
