@@ -107,58 +107,10 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Add BOM Tag",
-                    "name": "Add BOM Tag",
-                    "x": 637,
-                    "y": 183,
-                    "uniqueID": 169813,
-                    "ioValues": [],
-                    "BOMlist": [
-                        {
-                            "BOMitemName": "Bolt",
-                            "numberNeeded": 1,
-                            "costUSD": 0.35,
-                            "source": "www.test.com",
-                            "totalNeeded": 0
-                        },
-                        {
-                            "BOMitemName": "name",
-                            "numberNeeded": 0,
-                            "costUSD": 0,
-                            "source": "www.example.com",
-                            "totalNeeded": 0
-                        },
-                        {
-                            "BOMitemName": "name",
-                            "numberNeeded": 0,
-                            "costUSD": 0,
-                            "source": "www.example.com",
-                            "totalNeeded": 0
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Add BOM Tag",
-                    "name": "Add BOM Tag",
-                    "x": 691,
-                    "y": 35,
-                    "uniqueID": 590301,
-                    "ioValues": [],
-                    "BOMlist": [
-                        {
-                            "BOMitemName": "Bolt #2",
-                            "numberNeeded": 2,
-                            "costUSD": 0.64,
-                            "source": "www.test.com",
-                            "totalNeeded": 0
-                        }
-                    ]
-                },
-                {
                     "atomType": "Union",
                     "name": "Union",
-                    "x": 818,
-                    "y": 120,
+                    "x": 740,
+                    "y": 114,
                     "uniqueID": 521197,
                     "ioValues": []
                 },
@@ -203,26 +155,14 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 321747,
-                    "ap2ID": 169813
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 991509,
-                    "ap2ID": 590301
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "geometry1",
-                    "ap1ID": 169813,
+                    "ap1ID": 321747,
                     "ap2ID": 521197
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry2",
-                    "ap1ID": 590301,
+                    "ap1ID": 991509,
                     "ap2ID": 521197
                 },
                 {
