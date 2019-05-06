@@ -117,12 +117,20 @@
                 {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
-                    "x": 796,
-                    "y": 230,
+                    "x": 714,
+                    "y": 232,
                     "uniqueID": 303042,
                     "ioValues": [
                         {
                             "name": "2D shape 849838",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "2D shape 866552",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "2D shape 431680",
                             "ioValue": 10
                         }
                     ],
@@ -175,9 +183,21 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "2D shape 866552",
+                    "ap1ID": 321747,
+                    "ap2ID": 303042
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "geometry2",
                     "ap1ID": 991509,
                     "ap2ID": 521197
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "2D shape 849838",
+                    "ap1ID": 991509,
+                    "ap2ID": 303042
                 },
                 {
                     "ap1Name": "geometry",
