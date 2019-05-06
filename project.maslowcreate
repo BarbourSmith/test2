@@ -109,8 +109,8 @@
                 {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 654.8930041152264,
-                    "y": 175.6687242798354,
+                    "x": 637,
+                    "y": 183,
                     "uniqueID": 169813,
                     "ioValues": [],
                     "BOMlist": [
@@ -119,6 +119,13 @@
                             "numberNeeded": 1,
                             "costUSD": 0.35,
                             "source": "www.test.com",
+                            "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
                             "totalNeeded": 0
                         }
                     ]
