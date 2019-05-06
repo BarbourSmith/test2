@@ -131,8 +131,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 802,
-                    "y": 122,
+                    "x": 758,
+                    "y": 135,
                     "uniqueID": 920693,
                     "ioValues": [
                         {
@@ -217,7 +217,8 @@
                     "ap2Name": "number or geometry",
                     "ap1ID": 920693
                 }
-            ]
+            ],
+            "fileTypeVersion": 1
         }
     ]
 }
