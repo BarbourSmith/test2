@@ -107,18 +107,27 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Add BOM Tag",
+                    "name": "Add BOM Tag",
+                    "x": 654.8930041152264,
+                    "y": 175.6687242798354,
+                    "uniqueID": 169813,
+                    "ioValues": [],
+                    "BOMlist": []
+                },
+                {
                     "atomType": "Union",
                     "name": "Union",
-                    "x": 734,
-                    "y": 150,
+                    "x": 816.508230452675,
+                    "y": 74.48353909465021,
                     "uniqueID": 521197,
                     "ioValues": []
                 },
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 922,
-                    "y": 164,
+                    "x": 1077.90329218107,
+                    "y": 167.2366255144033,
                     "ioValues": []
                 }
             ],
@@ -155,14 +164,20 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry1",
+                    "ap2Name": "geometry",
                     "ap1ID": 321747,
-                    "ap2ID": 521197
+                    "ap2ID": 169813
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry2",
                     "ap1ID": 991509,
+                    "ap2ID": 521197
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry1",
+                    "ap1ID": 169813,
                     "ap2ID": 521197
                 },
                 {
