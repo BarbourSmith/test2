@@ -93,8 +93,8 @@
                 {
                     "atomType": "Tag",
                     "name": "Add Tag",
-                    "x": 467.21159420289854,
-                    "y": 178.17391304347825,
+                    "x": 472,
+                    "y": 188,
                     "uniqueID": 321747,
                     "ioValues": []
                 },
@@ -113,28 +113,6 @@
                     "y": 114,
                     "uniqueID": 521197,
                     "ioValues": []
-                },
-                {
-                    "atomType": "ShrinkWrap",
-                    "name": "Shrink Wrap",
-                    "x": 714,
-                    "y": 232,
-                    "uniqueID": 303042,
-                    "ioValues": [
-                        {
-                            "name": "2D shape 849838",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "2D shape 866552",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "2D shape 431680",
-                            "ioValue": 10
-                        }
-                    ],
-                    "closedSelection": 0
                 },
                 {
                     "atomType": "Output",
@@ -192,12 +170,6 @@
                     "ap2Name": "geometry2",
                     "ap1ID": 991509,
                     "ap2ID": 521197
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "2D shape 849838",
-                    "ap1ID": 991509,
-                    "ap2ID": 303042
                 },
                 {
                     "ap1Name": "geometry",
