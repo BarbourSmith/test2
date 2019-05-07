@@ -111,6 +111,13 @@
                             "costUSD": 0,
                             "source": "www.example.com",
                             "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
                         }
                     ]
                 },
@@ -135,14 +142,21 @@
                             "costUSD": 0,
                             "source": "www.example.com",
                             "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
                         }
                     ]
                 },
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 737,
-                    "y": 103,
+                    "x": 759,
+                    "y": 105,
                     "uniqueID": 920693,
                     "ioValues": [
                         {
