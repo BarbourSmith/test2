@@ -134,39 +134,18 @@
                     }
                 },
                 {
-                    "atomType": "Circle",
-                    "name": "Circle",
-                    "x": 556,
-                    "y": 256,
-                    "uniqueID": 575663,
-                    "ioValues": [
-                        {
-                            "name": "radius",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "max segment size",
-                            "ioValue": 1
-                        }
-                    ]
-                },
-                {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 791,
-                    "y": 97,
+                    "x": 790,
+                    "y": 90,
                     "uniqueID": 920693,
                     "ioValues": [
-                        {
-                            "name": "2D shape 139884",
-                            "ioValue": 10
-                        },
                         {
                             "name": "2D shape 428183",
                             "ioValue": 10
                         },
                         {
-                            "name": "2D shape 238691",
+                            "name": "2D shape 680570",
                             "ioValue": 10
                         }
                     ]
@@ -215,12 +194,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 345423,
                     "ap2ID": 405056
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "2D shape 139884",
-                    "ap1ID": 368500,
-                    "ap2ID": 920693
                 },
                 {
                     "ap1Name": "geometry",
