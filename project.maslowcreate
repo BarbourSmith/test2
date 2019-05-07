@@ -99,10 +99,10 @@
                     "ioValues": [],
                     "BOMlist": [
                         {
-                            "BOMitemName": "name",
-                            "numberNeeded": 0,
-                            "costUSD": 0,
-                            "source": "www.example.com",
+                            "BOMitemName": "Bolt #1",
+                            "numberNeeded": 2,
+                            "costUSD": 0.35,
+                            "source": "www.mcmastercarr.com",
                             "totalNeeded": 0
                         }
                     ]
@@ -110,8 +110,8 @@
                 {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 505,
-                    "y": 168,
+                    "x": 509,
+                    "y": 183,
                     "uniqueID": 368500,
                     "ioValues": [],
                     "BOMlist": [
@@ -127,8 +127,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 770,
-                    "y": 153,
+                    "x": 737,
+                    "y": 103,
                     "uniqueID": 920693,
                     "ioValues": [
                         {
