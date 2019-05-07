@@ -108,15 +108,15 @@
                 {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 542,
-                    "y": 211,
-                    "uniqueID": 731822,
+                    "x": 569,
+                    "y": 208,
+                    "uniqueID": 405056,
                     "ioValues": [],
                     "BOMitem": {
-                        "BOMitemName": "Bolt #6",
-                        "numberNeeded": 2,
-                        "costUSD": 0.34,
-                        "source": "www.McMasterCarr.com",
+                        "BOMitemName": "name",
+                        "numberNeeded": 0,
+                        "costUSD": 0,
+                        "source": "www.example.com",
                         "totalNeeded": 0
                     }
                 },
@@ -127,10 +127,6 @@
                     "y": 133.875,
                     "uniqueID": 920693,
                     "ioValues": [
-                        {
-                            "name": "2D shape 210027",
-                            "ioValue": 10
-                        },
                         {
                             "name": "2D shape 139884",
                             "ioValue": 10
@@ -178,7 +174,7 @@
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 345423,
-                    "ap2ID": 731822
+                    "ap2ID": 405056
                 },
                 {
                     "ap1Name": "geometry",
@@ -186,12 +182,7 @@
                     "ap1ID": 368500,
                     "ap2ID": 920693
                 },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "2D shape 210027",
-                    "ap1ID": 731822,
-                    "ap2ID": 920693
-                },
+                null,
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
