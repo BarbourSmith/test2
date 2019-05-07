@@ -116,10 +116,10 @@
                     "ioValues": [],
                     "BOMlist": [
                         {
-                            "BOMitemName": "name",
-                            "numberNeeded": 0,
-                            "costUSD": 0,
-                            "source": "www.example.com",
+                            "BOMitemName": "Bolt #2",
+                            "numberNeeded": 1,
+                            "costUSD": 0.26,
+                            "source": "www.amazon.com",
                             "totalNeeded": 0
                         }
                     ]
