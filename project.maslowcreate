@@ -93,16 +93,23 @@
                 {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 518.889332003988,
-                    "y": 76.26719840478565,
+                    "x": 524,
+                    "y": 87,
                     "uniqueID": 731822,
                     "ioValues": [],
                     "BOMlist": [
                         {
                             "BOMitemName": "Bolt #1",
-                            "numberNeeded": 2,
-                            "costUSD": 0.45,
+                            "numberNeeded": 3,
+                            "costUSD": 0.56,
                             "source": "www.mcmastercarr.com",
+                            "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
                             "totalNeeded": 0
                         },
                         {
@@ -317,14 +324,21 @@
                             "costUSD": 0,
                             "source": "www.example.com",
                             "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
                         }
                     ]
                 },
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 828,
-                    "y": 111,
+                    "x": 756,
+                    "y": 103,
                     "uniqueID": 920693,
                     "ioValues": [
                         {
