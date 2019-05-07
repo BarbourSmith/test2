@@ -93,16 +93,23 @@
                 {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 515,
-                    "y": 82,
+                    "x": 513.4416749750748,
+                    "y": 85.80059820538385,
                     "uniqueID": 731822,
                     "ioValues": [],
                     "BOMlist": [
                         {
                             "BOMitemName": "Bolt #1",
                             "numberNeeded": 2,
-                            "costUSD": 0.35,
+                            "costUSD": 0.56,
                             "source": "www.mcmastercarr.com",
+                            "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
                             "totalNeeded": 0
                         },
                         {
@@ -275,14 +282,21 @@
                             "costUSD": 0,
                             "source": "www.example.com",
                             "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
                         }
                     ]
                 },
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 759,
-                    "y": 105,
+                    "x": 906.1042084168337,
+                    "y": 106.76152304609218,
                     "uniqueID": 920693,
                     "ioValues": [
                         {
@@ -302,7 +316,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 948,
+                    "x": 1306,
                     "y": 164,
                     "ioValues": []
                 }
