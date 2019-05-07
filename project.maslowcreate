@@ -106,8 +106,8 @@
                 {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 534.5009328358209,
-                    "y": 49.95335820895522,
+                    "x": 553,
+                    "y": 47,
                     "uniqueID": 368500,
                     "ioValues": [],
                     "BOMitem": {
@@ -134,10 +134,27 @@
                     }
                 },
                 {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 556,
+                    "y": 256,
+                    "uniqueID": 575663,
+                    "ioValues": [
+                        {
+                            "name": "radius",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "max segment size",
+                            "ioValue": 1
+                        }
+                    ]
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 825.2294776119403,
-                    "y": 133.875,
+                    "x": 791,
+                    "y": 97,
                     "uniqueID": 920693,
                     "ioValues": [
                         {
@@ -145,11 +162,11 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "2D shape 130553",
+                            "name": "2D shape 428183",
                             "ioValue": 10
                         },
                         {
-                            "name": "2D shape 428183",
+                            "name": "2D shape 238691",
                             "ioValue": 10
                         }
                     ]
@@ -207,7 +224,7 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "2D shape 130553",
+                    "ap2Name": "2D shape 428183",
                     "ap1ID": 405056,
                     "ap2ID": 920693
                 },
