@@ -72,8 +72,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 365.72254758418745,
-                    "y": 20,
+                    "x": 390.63526119402985,
+                    "y": 75.92910447761194,
                     "uniqueID": 345423,
                     "ioValues": [
                         {
@@ -229,8 +229,8 @@
                 {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 524,
-                    "y": 20,
+                    "x": 541.4944029850747,
+                    "y": 204.8087686567164,
                     "uniqueID": 731822,
                     "ioValues": [],
                     "BOMlist": [
@@ -365,8 +365,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 756,
-                    "y": 20,
+                    "x": 825.2294776119403,
+                    "y": 133.875,
                     "uniqueID": 920693,
                     "ioValues": [
                         {
