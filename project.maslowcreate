@@ -265,6 +265,13 @@
                             "costUSD": 0,
                             "source": "www.example.com",
                             "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
                         }
                     ]
                 },
@@ -281,6 +288,13 @@
                             "numberNeeded": 2,
                             "costUSD": 0.56,
                             "source": "www.mcmastercarr.com",
+                            "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
                             "totalNeeded": 0
                         },
                         {
