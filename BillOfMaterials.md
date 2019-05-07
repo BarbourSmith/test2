@@ -2,5 +2,5 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Bolt #1|2|0.35|www.mcmastercarr.com|
+|Bolt #1|2|0.56|www.mcmastercarr.com|
 |Bolt #2|1|0.26|www.amazon.com|
