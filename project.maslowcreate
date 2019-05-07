@@ -93,8 +93,8 @@
                 {
                     "atomType": "Tag",
                     "name": "Add Tag",
-                    "x": 472,
-                    "y": 188,
+                    "x": 466.7394789579158,
+                    "y": 235.42284569138278,
                     "uniqueID": 321747,
                     "ioValues": []
                 },
@@ -181,12 +181,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 345423,
                     "ap2ID": 991509
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 308579,
-                    "ap2ID": 321747
                 },
                 {
                     "ap1Name": "geometry",
