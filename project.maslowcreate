@@ -127,8 +127,8 @@
                     "ioValues": [],
                     "BOMitem": {
                         "BOMitemName": "Bolt #1",
-                        "numberNeeded": 0,
-                        "costUSD": 0,
+                        "numberNeeded": 2,
+                        "costUSD": 0.65,
                         "source": "www.example.com",
                         "totalNeeded": 0
                     }
