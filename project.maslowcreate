@@ -237,14 +237,21 @@
                             "costUSD": 0,
                             "source": "www.example.com",
                             "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
                         }
                     ]
                 },
                 {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 541.4944029850747,
-                    "y": 204.8087686567164,
+                    "x": 542,
+                    "y": 199,
                     "uniqueID": 731822,
                     "ioValues": [],
                     "BOMlist": [
@@ -253,6 +260,13 @@
                             "numberNeeded": 3,
                             "costUSD": 0.56,
                             "source": "www.mcmastercarr.com",
+                            "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
                             "totalNeeded": 0
                         },
                         {
