@@ -10,27 +10,10 @@
             "topLevel": true,
             "allAtoms": [
                 {
-                    "atomType": "Rectangle",
-                    "name": "Rectangle",
-                    "x": 122,
-                    "y": 75,
-                    "uniqueID": 615630,
-                    "ioValues": [
-                        {
-                            "name": "x length",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "y length",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
                     "atomType": "Circle",
                     "name": "Circle",
                     "x": 91,
-                    "y": 200,
+                    "y": 20,
                     "uniqueID": 156130,
                     "ioValues": [
                         {
@@ -44,10 +27,27 @@
                     ]
                 },
                 {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 122,
+                    "y": 20,
+                    "uniqueID": 615630,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Extrude",
                     "name": "Extrude",
                     "x": 230.70222222222222,
-                    "y": 117.77955555555555,
+                    "y": 20,
                     "uniqueID": 224108,
                     "ioValues": [
                         {
@@ -60,7 +60,7 @@
                     "atomType": "Extrude",
                     "name": "Extrude",
                     "x": 288,
-                    "y": 219,
+                    "y": 20,
                     "uniqueID": 308579,
                     "ioValues": [
                         {
@@ -73,7 +73,7 @@
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 365.72254758418745,
-                    "y": 65.56149341142022,
+                    "y": 20,
                     "uniqueID": 345423,
                     "ioValues": [
                         {
@@ -93,137 +93,8 @@
                 {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 524,
-                    "y": 87,
-                    "uniqueID": 731822,
-                    "ioValues": [],
-                    "BOMlist": [
-                        {
-                            "BOMitemName": "Bolt #1",
-                            "numberNeeded": 3,
-                            "costUSD": 0.56,
-                            "source": "www.mcmastercarr.com",
-                            "totalNeeded": 0
-                        },
-                        {
-                            "BOMitemName": "name",
-                            "numberNeeded": 0,
-                            "costUSD": 0,
-                            "source": "www.example.com",
-                            "totalNeeded": 0
-                        },
-                        {
-                            "BOMitemName": "name",
-                            "numberNeeded": 0,
-                            "costUSD": 0,
-                            "source": "www.example.com",
-                            "totalNeeded": 0
-                        },
-                        {
-                            "BOMitemName": "name",
-                            "numberNeeded": 0,
-                            "costUSD": 0,
-                            "source": "www.example.com",
-                            "totalNeeded": 0
-                        },
-                        {
-                            "BOMitemName": "name",
-                            "numberNeeded": 0,
-                            "costUSD": 0,
-                            "source": "www.example.com",
-                            "totalNeeded": 0
-                        },
-                        {
-                            "BOMitemName": "name",
-                            "numberNeeded": 0,
-                            "costUSD": 0,
-                            "source": "www.example.com",
-                            "totalNeeded": 0
-                        },
-                        {
-                            "BOMitemName": "name",
-                            "numberNeeded": 0,
-                            "costUSD": 0,
-                            "source": "www.example.com",
-                            "totalNeeded": 0
-                        },
-                        {
-                            "BOMitemName": "name",
-                            "numberNeeded": 0,
-                            "costUSD": 0,
-                            "source": "www.example.com",
-                            "totalNeeded": 0
-                        },
-                        {
-                            "BOMitemName": "name",
-                            "numberNeeded": 0,
-                            "costUSD": 0,
-                            "source": "www.example.com",
-                            "totalNeeded": 0
-                        },
-                        {
-                            "BOMitemName": "name",
-                            "numberNeeded": 0,
-                            "costUSD": 0,
-                            "source": "www.example.com",
-                            "totalNeeded": 0
-                        },
-                        {
-                            "BOMitemName": "name",
-                            "numberNeeded": 0,
-                            "costUSD": 0,
-                            "source": "www.example.com",
-                            "totalNeeded": 0
-                        },
-                        {
-                            "BOMitemName": "name",
-                            "numberNeeded": 0,
-                            "costUSD": 0,
-                            "source": "www.example.com",
-                            "totalNeeded": 0
-                        },
-                        {
-                            "BOMitemName": "name",
-                            "numberNeeded": 0,
-                            "costUSD": 0,
-                            "source": "www.example.com",
-                            "totalNeeded": 0
-                        },
-                        {
-                            "BOMitemName": "name",
-                            "numberNeeded": 0,
-                            "costUSD": 0,
-                            "source": "www.example.com",
-                            "totalNeeded": 0
-                        },
-                        {
-                            "BOMitemName": "name",
-                            "numberNeeded": 0,
-                            "costUSD": 0,
-                            "source": "www.example.com",
-                            "totalNeeded": 0
-                        },
-                        {
-                            "BOMitemName": "name",
-                            "numberNeeded": 0,
-                            "costUSD": 0,
-                            "source": "www.example.com",
-                            "totalNeeded": 0
-                        },
-                        {
-                            "BOMitemName": "name",
-                            "numberNeeded": 0,
-                            "costUSD": 0,
-                            "source": "www.example.com",
-                            "totalNeeded": 0
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Add BOM Tag",
-                    "name": "Add BOM Tag",
                     "x": 509,
-                    "y": 183,
+                    "y": 20,
                     "uniqueID": 368500,
                     "ioValues": [],
                     "BOMlist": [
@@ -345,6 +216,149 @@
                             "costUSD": 0,
                             "source": "www.example.com",
                             "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Add BOM Tag",
+                    "name": "Add BOM Tag",
+                    "x": 524,
+                    "y": 20,
+                    "uniqueID": 731822,
+                    "ioValues": [],
+                    "BOMlist": [
+                        {
+                            "BOMitemName": "Bolt #1",
+                            "numberNeeded": 3,
+                            "costUSD": 0.56,
+                            "source": "www.mcmastercarr.com",
+                            "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
                         }
                     ]
                 },
@@ -352,7 +366,7 @@
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 756,
-                    "y": 103,
+                    "y": 20,
                     "uniqueID": 920693,
                     "ioValues": [
                         {
@@ -372,7 +386,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 953,
+                    "x": 1021,
                     "y": 164,
                     "ioValues": []
                 }
@@ -381,14 +395,14 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 615630,
-                    "ap2ID": 224108
+                    "ap1ID": 156130,
+                    "ap2ID": 308579
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 156130,
-                    "ap2ID": 308579
+                    "ap1ID": 615630,
+                    "ap2ID": 224108
                 },
                 {
                     "ap1Name": "geometry",
@@ -410,14 +424,14 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "2D shape 210027",
-                    "ap1ID": 731822,
+                    "ap2Name": "2D shape 139884",
+                    "ap1ID": 368500,
                     "ap2ID": 920693
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "2D shape 139884",
-                    "ap1ID": 368500,
+                    "ap2Name": "2D shape 210027",
+                    "ap1ID": 731822,
                     "ap2ID": 920693
                 },
                 {
