@@ -17,8 +17,8 @@
                 {
                     "atomType": "Input",
                     "name": "Radius",
-                    "x": 63,
-                    "y": 92,
+                    "x": 75,
+                    "y": 91,
                     "uniqueID": 813101,
                     "ioValues": []
                 },
@@ -163,6 +163,12 @@
                 }
             ],
             "allConnectors": [
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "radius",
+                    "ap1ID": 813101,
+                    "ap2ID": 156130
+                },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
