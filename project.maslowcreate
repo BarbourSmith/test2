@@ -101,8 +101,15 @@
                         {
                             "BOMitemName": "Bolt #1",
                             "numberNeeded": 2,
-                            "costUSD": 0.56,
+                            "costUSD": 0.45,
                             "source": "www.mcmastercarr.com",
+                            "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
                             "totalNeeded": 0
                         },
                         {
@@ -303,14 +310,21 @@
                             "costUSD": 0,
                             "source": "www.example.com",
                             "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
                         }
                     ]
                 },
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 906.1042084168337,
-                    "y": 106.76152304609218,
+                    "x": 828,
+                    "y": 111,
                     "uniqueID": 920693,
                     "ioValues": [
                         {
