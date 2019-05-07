@@ -98,10 +98,10 @@
                     "uniqueID": 368500,
                     "ioValues": [],
                     "BOMitem": {
-                        "BOMitemName": "name",
-                        "numberNeeded": 0,
-                        "costUSD": 0,
-                        "source": "www.example.com",
+                        "BOMitemName": "Bolt #8",
+                        "numberNeeded": 1,
+                        "costUSD": 0.32,
+                        "source": "www.amazon.com",
                         "totalNeeded": 0
                     }
                 },
@@ -113,10 +113,10 @@
                     "uniqueID": 731822,
                     "ioValues": [],
                     "BOMitem": {
-                        "BOMitemName": "name",
-                        "numberNeeded": 0,
-                        "costUSD": 0,
-                        "source": "www.example.com",
+                        "BOMitemName": "Bolt #6",
+                        "numberNeeded": 2,
+                        "costUSD": 0.34,
+                        "source": "www.McMasterCarr.com",
                         "totalNeeded": 0
                     }
                 },
