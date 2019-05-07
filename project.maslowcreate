@@ -91,18 +91,38 @@
                     ]
                 },
                 {
-                    "atomType": "ShrinkWrap",
-                    "name": "Shrink Wrap",
-                    "x": 523,
-                    "y": 157,
-                    "uniqueID": 314117,
-                    "ioValues": [
+                    "atomType": "Add BOM Tag",
+                    "name": "Add BOM Tag",
+                    "x": 515,
+                    "y": 82,
+                    "uniqueID": 731822,
+                    "ioValues": [],
+                    "BOMlist": [
                         {
-                            "name": "2D shape 707198",
-                            "ioValue": 10
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
                         }
-                    ],
-                    "closedSelection": 0
+                    ]
+                },
+                {
+                    "atomType": "Add BOM Tag",
+                    "name": "Add BOM Tag",
+                    "x": 505,
+                    "y": 168,
+                    "uniqueID": 368500,
+                    "ioValues": [],
+                    "BOMlist": [
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
+                        }
+                    ]
                 },
                 {
                     "atomType": "Assembly",
@@ -112,15 +132,15 @@
                     "uniqueID": 920693,
                     "ioValues": [
                         {
-                            "name": "2D shape 499094",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "2D shape 210027",
                             "ioValue": 10
                         },
                         {
                             "name": "2D shape 139884",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "2D shape 130553",
                             "ioValue": 10
                         }
                     ]
@@ -151,6 +171,30 @@
                     "ap2Name": "geometry",
                     "ap1ID": 224108,
                     "ap2ID": 345423
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 308579,
+                    "ap2ID": 368500
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 345423,
+                    "ap2ID": 731822
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "2D shape 210027",
+                    "ap1ID": 731822,
+                    "ap2ID": 920693
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "2D shape 139884",
+                    "ap1ID": 368500,
+                    "ap2ID": 920693
                 },
                 {
                     "ap1Name": "geometry",
