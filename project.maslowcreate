@@ -223,6 +223,13 @@
                             "costUSD": 0,
                             "source": "www.example.com",
                             "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
+                            "totalNeeded": 0
                         }
                     ]
                 },
@@ -239,6 +246,13 @@
                             "numberNeeded": 3,
                             "costUSD": 0.56,
                             "source": "www.mcmastercarr.com",
+                            "totalNeeded": 0
+                        },
+                        {
+                            "BOMitemName": "name",
+                            "numberNeeded": 0,
+                            "costUSD": 0,
+                            "source": "www.example.com",
                             "totalNeeded": 0
                         },
                         {
@@ -386,7 +400,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1021,
+                    "x": 1022,
                     "y": 164,
                     "ioValues": []
                 }
