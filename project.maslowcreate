@@ -35,7 +35,7 @@
                     "ioValues": [
                         {
                             "name": "x length",
-                            "ioValue": 20
+                            "ioValue": 10
                         },
                         {
                             "name": "y length",
@@ -86,7 +86,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 56
+                            "ioValue": 60
                         }
                     ]
                 },
