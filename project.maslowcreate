@@ -59,8 +59,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 234.78078358208955,
-                    "y": 169.84141791044777,
+                    "x": 225,
+                    "y": 161,
                     "uniqueID": 224108,
                     "ioValues": [
                         {
@@ -85,8 +85,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 390.63526119402985,
-                    "y": 209.80410447761193,
+                    "x": 371,
+                    "y": 200,
                     "uniqueID": 345423,
                     "ioValues": [
                         {
@@ -121,8 +121,8 @@
                 {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 563,
-                    "y": 146,
+                    "x": 558,
+                    "y": 158,
                     "uniqueID": 405056,
                     "ioValues": [],
                     "BOMitem": {
@@ -157,8 +157,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 927,
-                    "y": 145,
+                    "x": 1306,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
