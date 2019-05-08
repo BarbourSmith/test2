@@ -121,8 +121,8 @@
                 {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 558,
-                    "y": 158,
+                    "x": 544,
+                    "y": 171,
                     "uniqueID": 405056,
                     "ioValues": [],
                     "BOMitem": {
@@ -136,8 +136,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 743,
-                    "y": 77,
+                    "x": 740,
+                    "y": 74,
                     "uniqueID": 920693,
                     "ioValues": [
                         {
