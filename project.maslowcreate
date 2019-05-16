@@ -99,7 +99,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 60
+                            "ioValue": 110
                         }
                     ]
                 },
