@@ -8,7 +8,7 @@
             "uniqueID": 245113,
             "ioValues": [
                 {
-                    "name": "Radius",
+                    "name": "Input536393",
                     "ioValue": 10
                 }
             ],
@@ -16,11 +16,28 @@
             "allAtoms": [
                 {
                     "atomType": "Input",
-                    "name": "Radius",
-                    "x": 75,
-                    "y": 91,
-                    "uniqueID": 813101,
+                    "name": "Input536393",
+                    "x": 65,
+                    "y": 110,
+                    "uniqueID": 659909,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 222,
+                    "y": 52,
+                    "uniqueID": 481888,
+                    "ioValues": [
+                        {
+                            "name": "radius",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "max segment size",
+                            "ioValue": 1
+                        }
+                    ]
                 },
                 {
                     "atomType": "Rectangle",
@@ -36,23 +53,6 @@
                         {
                             "name": "y length",
                             "ioValue": 10
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Circle",
-                    "name": "Circle",
-                    "x": 242,
-                    "y": 56,
-                    "uniqueID": 865308,
-                    "ioValues": [
-                        {
-                            "name": "radius",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "max segment size",
-                            "ioValue": 1
                         }
                     ]
                 },
@@ -166,20 +166,20 @@
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "radius",
-                    "ap1ID": 813101,
-                    "ap2ID": 865308
+                    "ap1ID": 659909,
+                    "ap2ID": 481888
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 481888,
+                    "ap2ID": 308579
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 615630,
                     "ap2ID": 224108
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 865308,
-                    "ap2ID": 308579
                 },
                 {
                     "ap1Name": "geometry",
