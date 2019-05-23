@@ -2,5 +2,3 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Bolt #8|1|0.32|www.amazon.com|
-|Bolt #1|2|0.65|www.example.com|
