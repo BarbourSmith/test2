@@ -8,7 +8,7 @@
             "uniqueID": 245113,
             "ioValues": [
                 {
-                    "name": "Input536393",
+                    "name": "Radius",
                     "ioValue": 10
                 }
             ],
@@ -16,10 +16,10 @@
             "allAtoms": [
                 {
                     "atomType": "Input",
-                    "name": "Input536393",
+                    "name": "Radius",
                     "x": 65,
-                    "y": 110,
-                    "uniqueID": 659909,
+                    "y": 126,
+                    "uniqueID": 119514,
                     "ioValues": []
                 },
                 {
@@ -32,10 +32,6 @@
                         {
                             "name": "radius",
                             "ioValue": 10
-                        },
-                        {
-                            "name": "max segment size",
-                            "ioValue": 1
                         }
                     ]
                 },
@@ -157,7 +153,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1052,
+                    "x": 1075,
                     "y": 164,
                     "ioValues": []
                 }
@@ -166,7 +162,7 @@
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "radius",
-                    "ap1ID": 659909,
+                    "ap1ID": 119514,
                     "ap2ID": 481888
                 },
                 {
