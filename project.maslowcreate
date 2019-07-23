@@ -138,7 +138,14 @@
                     "x": 536,
                     "y": 155,
                     "uniqueID": 151671,
-                    "ioValues": []
+                    "ioValues": [],
+                    "BOMitem": {
+                        "BOMitemName": "name",
+                        "numberNeeded": 0,
+                        "costUSD": 0,
+                        "source": "www.example.com",
+                        "totalNeeded": 0
+                    }
                 },
                 {
                     "atomType": "Add BOM Tag",
@@ -158,8 +165,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 778,
-                    "y": 105,
+                    "x": 715,
+                    "y": 78,
                     "uniqueID": 974285,
                     "ioValues": [
                         {
@@ -168,6 +175,10 @@
                         },
                         {
                             "name": "3D shape 759149",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 987501",
                             "ioValue": 10
                         }
                     ]
@@ -227,6 +238,12 @@
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 517552",
                     "ap1ID": 368500,
+                    "ap2ID": 974285
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 759149",
+                    "ap1ID": 151671,
                     "ap2ID": 974285
                 },
                 {
