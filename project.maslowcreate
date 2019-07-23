@@ -69,7 +69,7 @@
                     "atomType": "Equation",
                     "name": "Equation",
                     "x": 272,
-                    "y": 289,
+                    "y": 280.16513761467894,
                     "uniqueID": 470750,
                     "ioValues": [
                         {
@@ -133,32 +133,24 @@
                     }
                 },
                 {
-                    "atomType": "Add BOM Tag",
-                    "name": "Add BOM Tag",
-                    "x": 515,
-                    "y": 247,
-                    "uniqueID": 405056,
-                    "ioValues": [],
-                    "BOMitem": {
-                        "BOMitemName": "Bolt #1",
-                        "numberNeeded": 2,
-                        "costUSD": 0.65,
-                        "source": "www.example.com",
-                        "totalNeeded": 0
-                    }
-                },
-                {
                     "atomType": "CutAway",
                     "name": "Cut Away",
-                    "x": 693,
-                    "y": 195,
-                    "uniqueID": 354669,
+                    "x": 523.4587155963303,
+                    "y": 167.47018348623854,
+                    "uniqueID": 648329,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 748,
+                    "y": 164,
                     "ioValues": []
                 },
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 816,
+                    "x": 778,
                     "y": 105,
                     "uniqueID": 974285,
                     "ioValues": [
@@ -167,21 +159,10 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 850082",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "3D shape 759149",
                             "ioValue": 10
                         }
                     ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1003,
-                    "y": 164,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -215,28 +196,11 @@
                     "ap1ID": 308579,
                     "ap2ID": 368500
                 },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 345423,
-                    "ap2ID": 405056
-                },
+                null,
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 517552",
                     "ap1ID": 368500,
-                    "ap2ID": 974285
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 405056,
-                    "ap2ID": 354669
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 850082",
-                    "ap1ID": 354669,
                     "ap2ID": 974285
                 },
                 {
