@@ -100,6 +100,21 @@
                     ]
                 },
                 {
+                    "atomType": "Add BOM Tag",
+                    "name": "Add BOM Tag",
+                    "x": 553,
+                    "y": 191,
+                    "uniqueID": 178716,
+                    "ioValues": [],
+                    "BOMitem": {
+                        "BOMitemName": "Test",
+                        "numberNeeded": 2,
+                        "costUSD": 0,
+                        "source": "www.example.com",
+                        "totalNeeded": 0
+                    }
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 677,
@@ -111,11 +126,11 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 575006",
+                            "name": "3D shape 218173",
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 218173",
+                            "name": "3D shape 233448",
                             "ioValue": 10
                         }
                     ]
@@ -155,14 +170,20 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 575006",
+                    "ap2Name": "geometry",
                     "ap1ID": 345423,
-                    "ap2ID": 374901
+                    "ap2ID": 178716
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 855178",
                     "ap1ID": 308579,
+                    "ap2ID": 374901
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 218173",
+                    "ap1ID": 178716,
                     "ap2ID": 374901
                 },
                 {
