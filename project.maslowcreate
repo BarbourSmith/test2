@@ -68,8 +68,8 @@
                 {
                     "atomType": "Equation",
                     "name": "Equation",
-                    "x": 296,
-                    "y": 272,
+                    "x": 286,
+                    "y": 281,
                     "uniqueID": 470750,
                     "ioValues": [
                         {
@@ -79,9 +79,13 @@
                         {
                             "name": "y",
                             "ioValue": 1
+                        },
+                        {
+                            "name": "z",
+                            "ioValue": 1
                         }
                     ],
-                    "currentEquation": "x + y "
+                    "currentEquation": "x - z "
                 },
                 {
                     "atomType": "Extrude",
