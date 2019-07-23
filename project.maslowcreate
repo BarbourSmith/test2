@@ -30,7 +30,7 @@
                     "uniqueID": 481888,
                     "ioValues": [
                         {
-                            "name": "radius",
+                            "name": "diameter",
                             "ioValue": 10
                         }
                     ]
@@ -144,12 +144,6 @@
                 }
             ],
             "allConnectors": [
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "radius",
-                    "ap1ID": 119514,
-                    "ap2ID": 481888
-                },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
