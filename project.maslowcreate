@@ -25,21 +25,21 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 222,
-                    "y": 52,
+                    "x": 234,
+                    "y": 63,
                     "uniqueID": 481888,
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 10
+                            "ioValue": 20
                         }
                     ]
                 },
                 {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
-                    "x": 106,
-                    "y": 223,
+                    "x": 104,
+                    "y": 225,
                     "uniqueID": 615630,
                     "ioValues": [
                         {
@@ -89,8 +89,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 399,
-                    "y": 84,
+                    "x": 448,
+                    "y": 71,
                     "uniqueID": 308579,
                     "ioValues": [
                         {
@@ -117,8 +117,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 677,
-                    "y": 78,
+                    "x": 670,
+                    "y": 75,
                     "uniqueID": 374901,
                     "ioValues": [
                         {
