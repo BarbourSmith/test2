@@ -81,7 +81,7 @@
                             "ioValue": 1
                         }
                     ],
-                    "currentEquation": "y - m "
+                    "currentEquation": "y - m"
                 },
                 {
                     "atomType": "Extrude",
