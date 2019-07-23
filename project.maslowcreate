@@ -135,8 +135,8 @@
                 {
                     "atomType": "CutAway",
                     "name": "Cut Away",
-                    "x": 539,
-                    "y": 149,
+                    "x": 536,
+                    "y": 155,
                     "uniqueID": 151671,
                     "ioValues": []
                 },
