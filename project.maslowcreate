@@ -79,10 +79,6 @@
                         {
                             "name": "y",
                             "ioValue": 1
-                        },
-                        {
-                            "name": "z",
-                            "ioValue": 1
                         }
                     ],
                     "currentEquation": "x + y "
