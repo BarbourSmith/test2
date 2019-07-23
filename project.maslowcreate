@@ -85,7 +85,7 @@
                     "y": 282,
                     "uniqueID": 470750,
                     "ioValues": [],
-                    "currentEquation": "Math.cos(.4)"
+                    "currentEquation": "x + y"
                 },
                 {
                     "atomType": "Translate",
