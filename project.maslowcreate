@@ -118,21 +118,6 @@
                     ]
                 },
                 {
-                    "atomType": "Add BOM Tag",
-                    "name": "Add BOM Tag",
-                    "x": 545,
-                    "y": 48,
-                    "uniqueID": 368500,
-                    "ioValues": [],
-                    "BOMitem": {
-                        "BOMitemName": "Bolt #8",
-                        "numberNeeded": 1,
-                        "costUSD": 0.32,
-                        "source": "www.amazon.com",
-                        "totalNeeded": 0
-                    }
-                },
-                {
                     "atomType": "CutAway",
                     "name": "Cut Away",
                     "x": 545,
@@ -143,8 +128,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 715,
-                    "y": 78,
+                    "x": 713,
+                    "y": 72,
                     "uniqueID": 974285,
                     "ioValues": [
                         {
@@ -152,11 +137,11 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 644276",
+                            "name": "3D shape 506392",
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 506392",
+                            "name": "3D shape 206411",
                             "ioValue": 10
                         }
                     ]
@@ -202,14 +187,8 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry",
+                    "ap2Name": "3D shape 506392",
                     "ap1ID": 308579,
-                    "ap2ID": 368500
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 644276",
-                    "ap1ID": 368500,
                     "ap2ID": 974285
                 },
                 {
