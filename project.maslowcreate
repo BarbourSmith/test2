@@ -77,15 +77,15 @@
                             "ioValue": 1
                         },
                         {
-                            "name": "y",
+                            "name": "z",
                             "ioValue": 1
                         },
                         {
-                            "name": "z",
+                            "name": "y",
                             "ioValue": 1
                         }
                     ],
-                    "currentEquation": "x - z "
+                    "currentEquation": "x +z "
                 },
                 {
                     "atomType": "Extrude",
