@@ -74,11 +74,11 @@
                     "ioValues": [
                         {
                             "name": "y",
-                            "ioValue": 1
+                            "ioValue": 3
                         },
                         {
                             "name": "z",
-                            "ioValue": 3
+                            "ioValue": 4
                         }
                     ],
                     "currentEquation": "y - z "
