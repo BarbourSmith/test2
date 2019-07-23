@@ -141,6 +141,21 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Add BOM Tag",
+                    "name": "Add BOM Tag",
+                    "x": 555,
+                    "y": 252,
+                    "uniqueID": 513698,
+                    "ioValues": [],
+                    "BOMitem": {
+                        "BOMitemName": "name",
+                        "numberNeeded": 0,
+                        "costUSD": 0,
+                        "source": "www.example.com",
+                        "totalNeeded": 0
+                    }
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 778,
@@ -201,6 +216,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 345423,
                     "ap2ID": 151671
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 345423,
+                    "ap2ID": 513698
                 },
                 {
                     "ap1Name": "geometry",
