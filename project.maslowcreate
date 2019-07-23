@@ -77,8 +77,8 @@
                             "ioValue": 3
                         },
                         {
-                            "name": "g",
-                            "ioValue": 1
+                            "name": "x",
+                            "ioValue": 0
                         }
                     ],
                     "currentEquation": "y - g"
@@ -113,7 +113,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 110
+                            "ioValue": 95
                         }
                     ]
                 },
@@ -135,8 +135,8 @@
                 {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 549.0191740412979,
-                    "y": 258.8952802359882,
+                    "x": 515,
+                    "y": 247,
                     "uniqueID": 405056,
                     "ioValues": [],
                     "BOMitem": {
@@ -171,7 +171,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1003,
+                    "x": 1316,
                     "y": 164,
                     "ioValues": []
                 }
