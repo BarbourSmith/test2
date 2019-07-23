@@ -84,23 +84,10 @@
                     "currentEquation": "y - g"
                 },
                 {
-                    "atomType": "Extrude",
-                    "name": "Extrude",
-                    "x": 399,
-                    "y": 84,
-                    "uniqueID": 308579,
-                    "ioValues": [
-                        {
-                            "name": "height",
-                            "ioValue": 100
-                        }
-                    ]
-                },
-                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 371,
-                    "y": 200,
+                    "x": 345,
+                    "y": 189,
                     "uniqueID": 345423,
                     "ioValues": [
                         {
@@ -114,6 +101,19 @@
                         {
                             "name": "zDist",
                             "ioValue": 95
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 399,
+                    "y": 84,
+                    "uniqueID": 308579,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 100
                         }
                     ]
                 },
@@ -135,25 +135,10 @@
                 {
                     "atomType": "CutAway",
                     "name": "Cut Away",
-                    "x": 536,
-                    "y": 155,
+                    "x": 545,
+                    "y": 137,
                     "uniqueID": 151671,
                     "ioValues": []
-                },
-                {
-                    "atomType": "Add BOM Tag",
-                    "name": "Add BOM Tag",
-                    "x": 555,
-                    "y": 252,
-                    "uniqueID": 513698,
-                    "ioValues": [],
-                    "BOMitem": {
-                        "BOMitemName": "name",
-                        "numberNeeded": 0,
-                        "costUSD": 0,
-                        "source": "www.example.com",
-                        "totalNeeded": 0
-                    }
                 },
                 {
                     "atomType": "Assembly",
@@ -163,15 +148,15 @@
                     "uniqueID": 974285,
                     "ioValues": [
                         {
-                            "name": "3D shape 517552",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 987501",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "3D shape 543605",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 644276",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 506392",
                             "ioValue": 10
                         }
                     ]
@@ -212,30 +197,24 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 308579,
-                    "ap2ID": 368500
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
                     "ap1ID": 345423,
                     "ap2ID": 151671
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 345423,
-                    "ap2ID": 513698
+                    "ap1ID": 308579,
+                    "ap2ID": 368500
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 517552",
+                    "ap2Name": "3D shape 644276",
                     "ap1ID": 368500,
                     "ap2ID": 974285
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 987501",
+                    "ap2Name": "3D shape 543605",
                     "ap1ID": 151671,
                     "ap2ID": 974285
                 },
