@@ -77,11 +77,11 @@
                             "ioValue": 3
                         },
                         {
-                            "name": "m",
+                            "name": "g",
                             "ioValue": 1
                         }
                     ],
-                    "currentEquation": "y - m"
+                    "currentEquation": "y - g"
                 },
                 {
                     "atomType": "Extrude",
