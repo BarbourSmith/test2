@@ -68,8 +68,8 @@
                 {
                     "atomType": "Equation",
                     "name": "Equation",
-                    "x": 271,
-                    "y": 285,
+                    "x": 230,
+                    "y": 295,
                     "uniqueID": 470750,
                     "ioValues": [
                         {
@@ -78,7 +78,7 @@
                         },
                         {
                             "name": "z",
-                            "ioValue": 2
+                            "ioValue": 3
                         }
                     ],
                     "currentEquation": "y - z "
