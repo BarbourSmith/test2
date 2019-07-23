@@ -85,7 +85,7 @@
                     "y": 282,
                     "uniqueID": 470750,
                     "ioValues": [],
-                    "currentEquation": "x + y"
+                    "currentEquation": "2 + 3"
                 },
                 {
                     "atomType": "Translate",
