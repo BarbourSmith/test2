@@ -135,16 +135,9 @@
                 {
                     "atomType": "CutAway",
                     "name": "Cut Away",
-                    "x": 523.4587155963303,
-                    "y": 167.47018348623854,
+                    "x": 558,
+                    "y": 138,
                     "uniqueID": 648329,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 748,
-                    "y": 164,
                     "ioValues": []
                 },
                 {
@@ -163,6 +156,13 @@
                             "ioValue": 10
                         }
                     ]
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 822,
+                    "y": 164,
+                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -196,7 +196,12 @@
                     "ap1ID": 308579,
                     "ap2ID": 368500
                 },
-                null,
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 345423,
+                    "ap2ID": 648329
+                },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 517552",
