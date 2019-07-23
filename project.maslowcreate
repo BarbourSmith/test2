@@ -79,6 +79,15 @@
                     ]
                 },
                 {
+                    "atomType": "Equation",
+                    "name": "Equation",
+                    "x": 301,
+                    "y": 282,
+                    "uniqueID": 470750,
+                    "ioValues": [],
+                    "currentEquation": "x + y"
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 371,
