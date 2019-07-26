@@ -102,7 +102,7 @@
                 {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 553,
+                    "x": 480,
                     "y": 191,
                     "uniqueID": 178716,
                     "ioValues": [],
@@ -113,6 +113,14 @@
                         "source": "www.example.com",
                         "totalNeeded": 0
                     }
+                },
+                {
+                    "atomType": "Color",
+                    "name": "Color",
+                    "x": 633,
+                    "y": 177,
+                    "uniqueID": 755316,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Assembly",
@@ -126,22 +134,14 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 218173",
+                            "name": "3D shape 233448",
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 233448",
+                            "name": "3D shape 510492",
                             "ioValue": 10
                         }
                     ]
-                },
-                {
-                    "atomType": "Color",
-                    "name": "Color",
-                    "x": 701,
-                    "y": 218,
-                    "uniqueID": 755316,
-                    "ioValues": []
                 },
                 {
                     "atomType": "Output",
@@ -184,15 +184,15 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 218173",
-                    "ap1ID": 178716,
-                    "ap2ID": 374901
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 178716,
                     "ap2ID": 755316
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 233448",
+                    "ap1ID": 755316,
+                    "ap2ID": 374901
                 },
                 {
                     "ap1Name": "geometry",
