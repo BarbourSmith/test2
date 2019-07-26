@@ -136,6 +136,14 @@
                     ]
                 },
                 {
+                    "atomType": "Color",
+                    "name": "Color",
+                    "x": 746,
+                    "y": 203,
+                    "uniqueID": 755316,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -179,6 +187,12 @@
                     "ap2Name": "3D shape 218173",
                     "ap1ID": 178716,
                     "ap2ID": 374901
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 178716,
+                    "ap2ID": 755316
                 },
                 {
                     "ap1Name": "geometry",
