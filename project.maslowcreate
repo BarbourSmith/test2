@@ -146,63 +146,6 @@
                     "removeCutawayGeometry": true
                 },
                 {
-                    "atomType": "Constant",
-                    "name": "Constant",
-                    "x": 774,
-                    "y": 129,
-                    "uniqueID": 592333,
-                    "ioValues": [
-                        {
-                            "name": "number",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Constant",
-                    "name": "Constant",
-                    "x": 793,
-                    "y": 224,
-                    "uniqueID": 210112,
-                    "ioValues": [
-                        {
-                            "name": "number",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Equation",
-                    "name": "Equation",
-                    "x": 910,
-                    "y": 181,
-                    "uniqueID": 547880,
-                    "ioValues": [
-                        {
-                            "name": "L",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "J",
-                            "ioValue": 10
-                        }
-                    ],
-                    "currentEquation": "5*L+J"
-                },
-                {
-                    "atomType": "Circle",
-                    "name": "Circle",
-                    "x": 1042,
-                    "y": 201,
-                    "uniqueID": 912345,
-                    "ioValues": [
-                        {
-                            "name": "diameter",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -257,18 +200,6 @@
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 374901
-                },
-                {
-                    "ap1Name": "number",
-                    "ap2Name": "L",
-                    "ap1ID": 592333,
-                    "ap2ID": 547880
-                },
-                {
-                    "ap1Name": "number",
-                    "ap2Name": "J",
-                    "ap1ID": 210112,
-                    "ap2ID": 547880
                 }
             ],
             "fileTypeVersion": 1
