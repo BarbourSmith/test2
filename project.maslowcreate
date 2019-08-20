@@ -126,8 +126,8 @@
                 {
                     "atomType": "Tag",
                     "name": "Add Tag",
-                    "x": 773,
-                    "y": 215,
+                    "x": 735,
+                    "y": 214,
                     "uniqueID": 990181,
                     "ioValues": [
                         {
@@ -165,8 +165,8 @@
                 {
                     "atomType": "ExtractTag",
                     "name": "Extract Tag",
-                    "x": 977,
-                    "y": 185,
+                    "x": 958,
+                    "y": 201,
                     "uniqueID": 987843,
                     "ioValues": [
                         {
