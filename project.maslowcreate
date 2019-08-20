@@ -132,7 +132,7 @@
                     "ioValues": [
                         {
                             "name": "tag",
-                            "ioValue": "Tag String"
+                            "ioValue": "ATest"
                         }
                     ]
                 },
@@ -171,7 +171,7 @@
                     "ioValues": [
                         {
                             "name": "tag",
-                            "ioValue": "Tag Name"
+                            "ioValue": "ATest"
                         }
                     ]
                 },
