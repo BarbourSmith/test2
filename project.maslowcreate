@@ -117,17 +117,25 @@
                 {
                     "atomType": "Color",
                     "name": "Color",
-                    "x": 633,
-                    "y": 177,
+                    "x": 622,
+                    "y": 197,
                     "uniqueID": 755316,
                     "ioValues": [],
                     "selectedColorIndex": 0
                 },
                 {
+                    "atomType": "Tag",
+                    "name": "Add Tag",
+                    "x": 727,
+                    "y": 156,
+                    "uniqueID": 990181,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 676,
-                    "y": 77,
+                    "x": 817,
+                    "y": 81,
                     "uniqueID": 374901,
                     "ioValues": [
                         {
@@ -135,22 +143,22 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 233448",
+                            "name": "3D shape 510492",
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 510492",
+                            "name": "3D shape 186094",
                             "ioValue": 10
                         }
                     ],
                     "removeCutawayGeometry": true
                 },
                 {
-                    "atomType": "CutList",
-                    "name": "Add To Cutlist",
-                    "x": 787,
-                    "y": 211,
-                    "uniqueID": 892824,
+                    "atomType": "ExtractTag",
+                    "name": "Extract Tag",
+                    "x": 977,
+                    "y": 185,
+                    "uniqueID": 987843,
                     "ioValues": []
                 },
                 {
@@ -200,20 +208,26 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 233448",
+                    "ap2Name": "geometry",
                     "ap1ID": 755316,
-                    "ap2ID": 374901
+                    "ap2ID": 990181
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 755316,
-                    "ap2ID": 892824
+                    "ap2Name": "3D shape 510492",
+                    "ap1ID": 990181,
+                    "ap2ID": 374901
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 374901
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 374901,
+                    "ap2ID": 987843
                 }
             ],
             "fileTypeVersion": 1
