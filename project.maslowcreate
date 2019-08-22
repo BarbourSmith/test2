@@ -129,12 +129,7 @@
                     "x": 735,
                     "y": 214,
                     "uniqueID": 990181,
-                    "ioValues": [
-                        {
-                            "name": "tag",
-                            "ioValue": "ATest"
-                        }
-                    ]
+                    "ioValues": []
                 },
                 {
                     "atomType": "Assembly",
@@ -143,10 +138,6 @@
                     "y": 81,
                     "uniqueID": 374901,
                     "ioValues": [
-                        {
-                            "name": "3D shape 186094",
-                            "ioValue": ""
-                        },
                         {
                             "name": "3D shape 186094",
                             "ioValue": 10
@@ -161,19 +152,6 @@
                         }
                     ],
                     "removeCutawayGeometry": true
-                },
-                {
-                    "atomType": "ExtractTag",
-                    "name": "Extract Tag",
-                    "x": 958,
-                    "y": 201,
-                    "uniqueID": 987843,
-                    "ioValues": [
-                        {
-                            "name": "tag",
-                            "ioValue": "ATestNonExistant"
-                        }
-                    ]
                 },
                 {
                     "atomType": "Translate",
@@ -257,18 +235,6 @@
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 374901
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 374901,
-                    "ap2ID": 987843
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 987843,
-                    "ap2ID": 775095
                 }
             ],
             "fileTypeVersion": 1
