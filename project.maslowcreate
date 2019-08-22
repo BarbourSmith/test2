@@ -129,7 +129,12 @@
                     "x": 735,
                     "y": 214,
                     "uniqueID": 990181,
-                    "ioValues": []
+                    "ioValues": [
+                        {
+                            "name": "tag",
+                            "ioValue": "Tag String"
+                        }
+                    ]
                 },
                 {
                     "atomType": "Assembly",
@@ -138,6 +143,10 @@
                     "y": 81,
                     "uniqueID": 374901,
                     "ioValues": [
+                        {
+                            "name": "3D shape 186094",
+                            "ioValue": ""
+                        },
                         {
                             "name": "3D shape 186094",
                             "ioValue": 10
@@ -160,6 +169,10 @@
                     "y": 236,
                     "uniqueID": 775095,
                     "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
                         {
                             "name": "xDist",
                             "ioValue": 0
