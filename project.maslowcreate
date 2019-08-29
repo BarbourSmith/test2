@@ -200,25 +200,10 @@
                     }
                 },
                 {
-                    "atomType": "Add BOM Tag",
-                    "name": "Add BOM Tag",
-                    "x": 470,
-                    "y": 246,
-                    "uniqueID": 178716,
-                    "ioValues": [],
-                    "BOMitem": {
-                        "BOMitemName": "Test",
-                        "numberNeeded": 2,
-                        "costUSD": 0,
-                        "source": "www.example.com",
-                        "totalNeeded": 0
-                    }
-                },
-                {
                     "atomType": "Color",
                     "name": "Color",
-                    "x": 622,
-                    "y": 197,
+                    "x": 617,
+                    "y": 181,
                     "uniqueID": 755316,
                     "ioValues": [],
                     "selectedColorIndex": 0
@@ -226,8 +211,8 @@
                 {
                     "atomType": "Color",
                     "name": "Color",
-                    "x": 622,
-                    "y": 197,
+                    "x": 617,
+                    "y": 181,
                     "uniqueID": 755316,
                     "ioValues": [],
                     "selectedColorIndex": 0
@@ -380,12 +365,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 224108,
                     "ap2ID": 345423
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 345423,
-                    "ap2ID": 178716
                 },
                 {
                     "ap1Name": "geometry",
