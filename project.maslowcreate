@@ -235,8 +235,8 @@
                 {
                     "atomType": "Tag",
                     "name": "Add Tag",
-                    "x": 730,
-                    "y": 217,
+                    "x": 729,
+                    "y": 224,
                     "uniqueID": 990181,
                     "ioValues": [
                         {
@@ -248,8 +248,8 @@
                 {
                     "atomType": "Tag",
                     "name": "Add Tag",
-                    "x": 730,
-                    "y": 217,
+                    "x": 729,
+                    "y": 224,
                     "uniqueID": 990181,
                     "ioValues": [
                         {
