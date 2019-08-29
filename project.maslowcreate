@@ -187,8 +187,8 @@
                 {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 480,
-                    "y": 191,
+                    "x": 470,
+                    "y": 246,
                     "uniqueID": 178716,
                     "ioValues": [],
                     "BOMitem": {
@@ -202,8 +202,8 @@
                 {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 480,
-                    "y": 191,
+                    "x": 470,
+                    "y": 246,
                     "uniqueID": 178716,
                     "ioValues": [],
                     "BOMitem": {
