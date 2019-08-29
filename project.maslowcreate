@@ -165,8 +165,8 @@
                 {
                     "atomType": "ExtractTag",
                     "name": "Extract Tag",
-                    "x": 926,
-                    "y": 226,
+                    "x": 914,
+                    "y": 215,
                     "uniqueID": 160444,
                     "ioValues": [
                         {
