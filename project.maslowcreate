@@ -126,8 +126,8 @@
                 {
                     "atomType": "Tag",
                     "name": "Add Tag",
-                    "x": 735,
-                    "y": 214,
+                    "x": 730,
+                    "y": 217,
                     "uniqueID": 990181,
                     "ioValues": [
                         {
@@ -163,27 +163,15 @@
                     "removeCutawayGeometry": true
                 },
                 {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 1138,
-                    "y": 253,
-                    "uniqueID": 775095,
+                    "atomType": "ExtractTag",
+                    "name": "Extract Tag",
+                    "x": 926,
+                    "y": 226,
+                    "uniqueID": 160444,
                     "ioValues": [
                         {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0
+                            "name": "tag",
+                            "ioValue": "test"
                         }
                     ]
                 },
@@ -248,6 +236,12 @@
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 374901
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 374901,
+                    "ap2ID": 160444
                 }
             ],
             "fileTypeVersion": 1
