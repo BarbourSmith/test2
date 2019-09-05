@@ -298,8 +298,8 @@
                 {
                     "atomType": "ExtractTag",
                     "name": "Extract Tag",
-                    "x": 923,
-                    "y": 256,
+                    "x": 860,
+                    "y": 229,
                     "uniqueID": 354982,
                     "ioValues": [
                         {
@@ -307,6 +307,14 @@
                             "ioValue": "Test"
                         }
                     ]
+                },
+                {
+                    "atomType": "CutList",
+                    "name": "Add To Cutlist",
+                    "x": 1058,
+                    "y": 222,
+                    "uniqueID": 108943,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Output",
@@ -406,6 +414,12 @@
                     "ap2Name": "3D shape 510492",
                     "ap1ID": 990181,
                     "ap2ID": 374901
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 374901,
+                    "ap2ID": 108943
                 },
                 {
                     "ap1Name": "geometry",
