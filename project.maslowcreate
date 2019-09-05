@@ -223,7 +223,12 @@
                     "x": 700,
                     "y": 236,
                     "uniqueID": 990181,
-                    "ioValues": []
+                    "ioValues": [
+                        {
+                            "name": "tag",
+                            "ioValue": "Tag String"
+                        }
+                    ]
                 },
                 {
                     "atomType": "Tag",
@@ -231,7 +236,12 @@
                     "x": 700,
                     "y": 236,
                     "uniqueID": 990181,
-                    "ioValues": []
+                    "ioValues": [
+                        {
+                            "name": "tag",
+                            "ioValue": "Tag String"
+                        }
+                    ]
                 },
                 {
                     "atomType": "Assembly",
@@ -240,6 +250,10 @@
                     "y": 74,
                     "uniqueID": 374901,
                     "ioValues": [
+                        {
+                            "name": "3D shape 186094",
+                            "ioValue": ""
+                        },
                         {
                             "name": "3D shape 186094",
                             "ioValue": 10
@@ -262,6 +276,10 @@
                     "y": 74,
                     "uniqueID": 374901,
                     "ioValues": [
+                        {
+                            "name": "3D shape 186094",
+                            "ioValue": ""
+                        },
                         {
                             "name": "3D shape 186094",
                             "ioValue": 10
@@ -283,7 +301,12 @@
                     "x": 934,
                     "y": 230,
                     "uniqueID": 354982,
-                    "ioValues": []
+                    "ioValues": [
+                        {
+                            "name": "tag",
+                            "ioValue": "Tag String"
+                        }
+                    ]
                 },
                 {
                     "atomType": "Output",
