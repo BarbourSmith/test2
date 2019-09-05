@@ -278,6 +278,14 @@
                     "removeCutawayGeometry": true
                 },
                 {
+                    "atomType": "ExtractTag",
+                    "name": "Extract Tag",
+                    "x": 940,
+                    "y": 225,
+                    "uniqueID": 354982,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -375,6 +383,12 @@
                     "ap2Name": "3D shape 510492",
                     "ap1ID": 990181,
                     "ap2ID": 374901
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 374901,
+                    "ap2ID": 354982
                 },
                 {
                     "ap1Name": "geometry",
