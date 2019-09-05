@@ -220,16 +220,16 @@
                 {
                     "atomType": "Tag",
                     "name": "Add Tag",
-                    "x": 712.868804664723,
-                    "y": 217.71039844509232,
+                    "x": 702,
+                    "y": 225,
                     "uniqueID": 990181,
                     "ioValues": []
                 },
                 {
                     "atomType": "Tag",
                     "name": "Add Tag",
-                    "x": 712.868804664723,
-                    "y": 217.71039844509232,
+                    "x": 702,
+                    "y": 225,
                     "uniqueID": 990181,
                     "ioValues": []
                 },
@@ -280,8 +280,8 @@
                 {
                     "atomType": "ExtractTag",
                     "name": "Extract Tag",
-                    "x": 954.4742468415938,
-                    "y": 240.27793974732748,
+                    "x": 961,
+                    "y": 241,
                     "uniqueID": 354982,
                     "ioValues": []
                 },
