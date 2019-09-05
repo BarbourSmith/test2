@@ -202,7 +202,7 @@
                 {
                     "atomType": "Color",
                     "name": "Color",
-                    "x": 617,
+                    "x": 609,
                     "y": 181,
                     "uniqueID": 755316,
                     "ioValues": [],
@@ -211,11 +211,11 @@
                 {
                     "atomType": "Color",
                     "name": "Color",
-                    "x": 617,
+                    "x": 609,
                     "y": 181,
                     "uniqueID": 755316,
                     "ioValues": [],
-                    "selectedColorIndex": 0
+                    "selectedColorIndex": "1"
                 },
                 {
                     "atomType": "Tag",
