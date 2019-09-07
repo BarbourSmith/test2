@@ -2,6 +2,26 @@
     "molecules": [
         {
             "atomType": "Molecule",
+            "name": "Molecule",
+            "x": 789,
+            "y": 269,
+            "uniqueID": 372066,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Test 2",
             "x": 0,
             "y": 0,
@@ -159,10 +179,36 @@
                     ]
                 },
                 {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 486,
+                    "y": 61,
+                    "uniqueID": 308579,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 100
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 486,
+                    "y": 61,
+                    "uniqueID": 308579,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 100
+                        }
+                    ]
+                },
+                {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 345,
-                    "y": 253,
+                    "x": 424,
+                    "y": 266,
                     "uniqueID": 178716,
                     "ioValues": [],
                     "BOMitem": {
@@ -176,8 +222,8 @@
                 {
                     "atomType": "Color",
                     "name": "Color",
-                    "x": 463,
-                    "y": 156,
+                    "x": 513,
+                    "y": 135,
                     "uniqueID": 755316,
                     "ioValues": [],
                     "selectedColorIndex": 0
@@ -185,43 +231,17 @@
                 {
                     "atomType": "Color",
                     "name": "Color",
-                    "x": 463,
-                    "y": 156,
+                    "x": 513,
+                    "y": 135,
                     "uniqueID": 755316,
                     "ioValues": [],
                     "selectedColorIndex": "3"
                 },
                 {
-                    "atomType": "Extrude",
-                    "name": "Extrude",
-                    "x": 486,
-                    "y": 61,
-                    "uniqueID": 308579,
-                    "ioValues": [
-                        {
-                            "name": "height",
-                            "ioValue": 100
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Extrude",
-                    "name": "Extrude",
-                    "x": 486,
-                    "y": 61,
-                    "uniqueID": 308579,
-                    "ioValues": [
-                        {
-                            "name": "height",
-                            "ioValue": 100
-                        }
-                    ]
-                },
-                {
                     "atomType": "CutAway",
                     "name": "Cut Away",
-                    "x": 612,
-                    "y": 232,
+                    "x": 623,
+                    "y": 251,
                     "uniqueID": 500860,
                     "ioValues": []
                 },
@@ -278,10 +298,18 @@
                     "removeCutawayGeometry": false
                 },
                 {
+                    "atomType": "Molecule",
+                    "name": "Molecule",
+                    "x": 789,
+                    "y": 269,
+                    "uniqueID": 372066,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 920,
-                    "y": 173,
+                    "x": 887,
+                    "y": 145,
                     "uniqueID": 320578,
                     "ioValues": [
                         {
@@ -297,7 +325,7 @@
                             "ioValue": 10
                         }
                     ],
-                    "removeCutawayGeometry": true
+                    "removeCutawayGeometry": false
                 },
                 {
                     "atomType": "Output",
@@ -352,6 +380,18 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "3D shape 855178",
+                    "ap1ID": 308579,
+                    "ap2ID": 374901
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 855178",
+                    "ap1ID": 308579,
+                    "ap2ID": 374901
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 178716,
                     "ap2ID": 755316
@@ -367,18 +407,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 755316,
                     "ap2ID": 500860
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 855178",
-                    "ap1ID": 308579,
-                    "ap2ID": 374901
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 855178",
-                    "ap1ID": 308579,
-                    "ap2ID": 374901
                 },
                 {
                     "ap1Name": "geometry",
