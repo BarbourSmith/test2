@@ -80,15 +80,15 @@
                             "ioValue": ""
                         },
                         {
+                            "name": "3D shape 106961",
+                            "ioValue": 10
+                        },
+                        {
                             "name": "3D shape 192372",
                             "ioValue": 10
                         },
                         {
                             "name": "3D shape 269504",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 106961",
                             "ioValue": 10
                         }
                     ],
@@ -386,6 +386,10 @@
                             "ioValue": ""
                         },
                         {
+                            "name": "3D shape 307669",
+                            "ioValue": 10
+                        },
+                        {
                             "name": "3D shape 855178",
                             "ioValue": 10
                         },
@@ -395,10 +399,6 @@
                         },
                         {
                             "name": "3D shape 782300",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 307669",
                             "ioValue": 10
                         }
                     ],
