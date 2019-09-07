@@ -3,12 +3,50 @@
         {
             "atomType": "Molecule",
             "name": "Molecule",
-            "x": 789,
-            "y": 269,
+            "x": 577,
+            "y": 35,
             "uniqueID": 372066,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 283,
+                    "y": 125,
+                    "uniqueID": 812932,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 100
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 436,
+                    "y": 163,
+                    "uniqueID": 971397,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "CutAway",
+                    "name": "Cut Away",
+                    "x": 670,
+                    "y": 183,
+                    "uniqueID": 189571,
+                    "ioValues": []
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
@@ -17,7 +55,25 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 812932,
+                    "ap2ID": 971397
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 971397,
+                    "ap2ID": 189571
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 189571
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
@@ -238,6 +294,14 @@
                     "selectedColorIndex": "3"
                 },
                 {
+                    "atomType": "Molecule",
+                    "name": "Molecule",
+                    "x": 577,
+                    "y": 35,
+                    "uniqueID": 372066,
+                    "ioValues": []
+                },
+                {
                     "atomType": "CutAway",
                     "name": "Cut Away",
                     "x": 623,
@@ -248,43 +312,13 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 733,
-                    "y": 69,
+                    "x": 736,
+                    "y": 75,
                     "uniqueID": 374901,
                     "ioValues": [
-                        {
-                            "name": "3D shape 186094",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 186094",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 855178",
-                            "ioValue": 10
-                        },
                         {
                             "name": "3D shape 510492",
-                            "ioValue": 10
-                        }
-                    ],
-                    "removeCutawayGeometry": true
-                },
-                {
-                    "atomType": "Assembly",
-                    "name": "Assembly",
-                    "x": 733,
-                    "y": 69,
-                    "uniqueID": 374901,
-                    "ioValues": [
-                        {
-                            "name": "3D shape 186094",
                             "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 186094",
-                            "ioValue": 10
                         },
                         {
                             "name": "3D shape 855178",
@@ -298,14 +332,6 @@
                     "removeCutawayGeometry": false
                 },
                 {
-                    "atomType": "Molecule",
-                    "name": "Molecule",
-                    "x": 789,
-                    "y": 269,
-                    "uniqueID": 372066,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 887,
@@ -317,11 +343,11 @@
                             "ioValue": ""
                         },
                         {
-                            "name": "3D shape 600851",
+                            "name": "3D shape 405470",
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 405470",
+                            "name": "3D shape 600851",
                             "ioValue": 10
                         }
                     ],
@@ -386,12 +412,6 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 855178",
-                    "ap1ID": 308579,
-                    "ap2ID": 374901
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 178716,
                     "ap2ID": 755316
@@ -407,12 +427,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 755316,
                     "ap2ID": 500860
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 510492",
-                    "ap1ID": 500860,
-                    "ap2ID": 374901
                 },
                 {
                     "ap1Name": "geometry",
