@@ -359,14 +359,6 @@
                     "selectedColorIndex": "3"
                 },
                 {
-                    "atomType": "CutAway",
-                    "name": "Cut Away",
-                    "x": 615,
-                    "y": 192,
-                    "uniqueID": 500860,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Molecule",
                     "name": "Molecule",
                     "x": 667,
@@ -483,14 +475,8 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 755316,
-                    "ap2ID": 500860
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "3D shape 782300",
-                    "ap1ID": 500860,
+                    "ap1ID": 755316,
                     "ap2ID": 374901
                 },
                 {
