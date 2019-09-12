@@ -407,22 +407,18 @@
                 {
                     "atomType": "CutList",
                     "name": "Add To Cutlist",
-                    "x": 847,
-                    "y": 207,
+                    "x": 834,
+                    "y": 221,
                     "uniqueID": 911949,
                     "ioValues": []
                 },
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 980,
-                    "y": 172,
+                    "x": 975,
+                    "y": 186,
                     "uniqueID": 931739,
                     "ioValues": [
-                        {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
                         {
                             "name": "xDist",
                             "ioValue": 0
@@ -535,7 +531,12 @@
                     "ap1ID": 374901,
                     "ap2ID": 911949
                 },
-                null
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 911949,
+                    "ap2ID": 931739
+                }
             ],
             "fileTypeVersion": 1
         }
