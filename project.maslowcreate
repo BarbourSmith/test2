@@ -407,8 +407,8 @@
                 {
                     "atomType": "CutList",
                     "name": "Add To Cutlist",
-                    "x": 876,
-                    "y": 223,
+                    "x": 847,
+                    "y": 207,
                     "uniqueID": 911949,
                     "ioValues": []
                 },
