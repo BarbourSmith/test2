@@ -407,16 +407,16 @@
                 {
                     "atomType": "CutList",
                     "name": "Add To Cutlist",
-                    "x": 838,
-                    "y": 151,
+                    "x": 810,
+                    "y": 161,
                     "uniqueID": 911949,
                     "ioValues": []
                 },
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 875,
-                    "y": 216,
+                    "x": 884,
+                    "y": 254,
                     "uniqueID": 931739,
                     "ioValues": [
                         {
