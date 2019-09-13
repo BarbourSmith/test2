@@ -333,10 +333,10 @@
                     "uniqueID": 178716,
                     "ioValues": [],
                     "BOMitem": {
-                        "BOMitemName": "Test",
+                        "BOMitemName": "From Amazon",
                         "numberNeeded": 1,
                         "costUSD": 0,
-                        "source": "www.example.com",
+                        "source": "www.bmazon.com",
                         "totalNeeded": 0
                     }
                 },
@@ -351,7 +351,7 @@
                         "BOMitemName": "Thing two",
                         "numberNeeded": 1,
                         "costUSD": 0,
-                        "source": "www.example.com",
+                        "source": "www.amazon.com",
                         "totalNeeded": 0
                     }
                 },
