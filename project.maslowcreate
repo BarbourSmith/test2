@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Molecule",
-            "x": 667,
-            "y": 284,
+            "x": 580,
+            "y": 242,
             "uniqueID": 372066,
             "ioValues": [],
             "topLevel": false,
@@ -374,6 +374,14 @@
                     "selectedColorIndex": "3"
                 },
                 {
+                    "atomType": "Molecule",
+                    "name": "Molecule",
+                    "x": 580,
+                    "y": 242,
+                    "uniqueID": 372066,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 720.0337777777778,
@@ -402,14 +410,6 @@
                         }
                     ],
                     "removeCutawayGeometry": true
-                },
-                {
-                    "atomType": "Molecule",
-                    "name": "Molecule",
-                    "x": 667,
-                    "y": 284,
-                    "uniqueID": 372066,
-                    "ioValues": []
                 },
                 {
                     "atomType": "Translate",
@@ -522,6 +522,12 @@
                     "ap2ID": 374901
                 },
                 {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 510492",
+                    "ap1ID": 372066,
+                    "ap2ID": 374901
+                },
+                {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 374901
@@ -537,12 +543,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 374901,
                     "ap2ID": 884830
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 510492",
-                    "ap1ID": 372066,
-                    "ap2ID": 374901
                 }
             ],
             "fileTypeVersion": 1
