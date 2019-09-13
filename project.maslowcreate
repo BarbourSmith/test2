@@ -97,7 +97,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 1075,
                     "y": 164,
                     "ioValues": []
                 }
@@ -328,12 +328,12 @@
                 {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 487,
-                    "y": 50,
-                    "uniqueID": 113400,
+                    "x": 416,
+                    "y": 255,
+                    "uniqueID": 178716,
                     "ioValues": [],
                     "BOMitem": {
-                        "BOMitemName": "Thing two",
+                        "BOMitemName": "Test",
                         "numberNeeded": 1,
                         "costUSD": 0,
                         "source": "www.example.com",
@@ -343,13 +343,13 @@
                 {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 424,
-                    "y": 266,
-                    "uniqueID": 178716,
+                    "x": 487,
+                    "y": 50,
+                    "uniqueID": 113400,
                     "ioValues": [],
                     "BOMitem": {
-                        "BOMitemName": "Test",
-                        "numberNeeded": 2,
+                        "BOMitemName": "Thing two",
+                        "numberNeeded": 1,
                         "costUSD": 0,
                         "source": "www.example.com",
                         "totalNeeded": 0
@@ -412,17 +412,38 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 834,
+                    "y": 203,
+                    "uniqueID": 884830,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
                     "atomType": "CutList",
                     "name": "Add To Cutlist",
-                    "x": 834,
-                    "y": 180,
+                    "x": 952,
+                    "y": 76,
                     "uniqueID": 911949,
                     "ioValues": []
                 },
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 1075,
                     "y": 164,
                     "ioValues": []
                 }
@@ -478,21 +499,21 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 178716,
+                    "ap2ID": 755316
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 178716,
+                    "ap2ID": 755316
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "3D shape 855178",
                     "ap1ID": 113400,
                     "ap2ID": 374901
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 178716,
-                    "ap2ID": 755316
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 178716,
-                    "ap2ID": 755316
                 },
                 {
                     "ap1Name": "geometry",
@@ -510,6 +531,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 374901,
                     "ap2ID": 911949
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 374901,
+                    "ap2ID": 884830
                 },
                 {
                     "ap1Name": "Geometry",
