@@ -251,8 +251,8 @@
                 {
                     "atomType": "CutList",
                     "name": "Add To Cutlist",
-                    "x": 458,
-                    "y": 55,
+                    "x": 399,
+                    "y": 58,
                     "uniqueID": 294575,
                     "ioValues": []
                 },
@@ -297,8 +297,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 738,
-                    "y": 77,
+                    "x": 688,
+                    "y": 94,
                     "uniqueID": 374901,
                     "ioValues": [
                         {
@@ -339,8 +339,8 @@
                 {
                     "atomType": "Cut Layout",
                     "name": "Cut Layout",
-                    "x": 937,
-                    "y": 218,
+                    "x": 873,
+                    "y": 254,
                     "uniqueID": 530391,
                     "ioValues": []
                 },
