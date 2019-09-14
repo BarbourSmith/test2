@@ -228,22 +228,6 @@
                     ]
                 },
                 {
-                    "atomType": "Svg",
-                    "name": "Svg",
-                    "x": 317,
-                    "y": 142,
-                    "uniqueID": 888501,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Svg",
-                    "name": "Svg",
-                    "x": 233,
-                    "y": 262,
-                    "uniqueID": 874490,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 327,
@@ -361,6 +345,14 @@
                     "removeCutawayGeometry": true
                 },
                 {
+                    "atomType": "Stl",
+                    "name": "Stl",
+                    "x": 811,
+                    "y": 67,
+                    "uniqueID": 304787,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 818,
@@ -392,12 +384,6 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 224108,
-                    "ap2ID": 874490
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
                     "ap1ID": 615630,
                     "ap2ID": 224108
                 },
@@ -406,12 +392,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 308579,
                     "ap2ID": 294575
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 308579,
-                    "ap2ID": 888501
                 },
                 {
                     "ap1Name": "geometry",
@@ -471,6 +451,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 374901,
                     "ap2ID": 530391
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 374901,
+                    "ap2ID": 304787
                 }
             ],
             "fileTypeVersion": 1
