@@ -345,14 +345,6 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "CutList",
-                    "name": "Add To Cutlist",
-                    "x": 962,
-                    "y": 64,
-                    "uniqueID": 911949,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1075,
@@ -425,12 +417,6 @@
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 374901
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 374901,
-                    "ap2ID": 911949
                 },
                 {
                     "ap1Name": "geometry",
