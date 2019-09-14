@@ -274,6 +274,14 @@
                     "selectedColorIndex": "3"
                 },
                 {
+                    "atomType": "Svg",
+                    "name": "Svg",
+                    "x": 538,
+                    "y": 289,
+                    "uniqueID": 674998,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 594,
@@ -406,6 +414,12 @@
                     "ap2Name": "3D shape 782300",
                     "ap1ID": 755316,
                     "ap2ID": 374901
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 755316,
+                    "ap2ID": 674998
                 },
                 {
                     "ap1Name": "geometry",
