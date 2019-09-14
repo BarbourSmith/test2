@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Molecule",
-            "x": 375.2452830188679,
-            "y": 119.54716981132076,
+            "x": 396,
+            "y": 116,
             "uniqueID": 372066,
             "ioValues": [],
             "topLevel": false,
@@ -249,19 +249,19 @@
                     ]
                 },
                 {
-                    "atomType": "Molecule",
-                    "name": "Molecule",
-                    "x": 375.2452830188679,
-                    "y": 119.54716981132076,
-                    "uniqueID": 372066,
-                    "ioValues": []
-                },
-                {
                     "atomType": "CutList",
                     "name": "Add To Cutlist",
                     "x": 399,
                     "y": 58,
                     "uniqueID": 294575,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Molecule",
+                    "x": 396,
+                    "y": 116,
+                    "uniqueID": 372066,
                     "ioValues": []
                 },
                 {
@@ -285,7 +285,7 @@
                     "atomType": "Svg",
                     "name": "Svg",
                     "x": 559,
-                    "y": 279,
+                    "y": 270.4225352112676,
                     "uniqueID": 674998,
                     "ioValues": []
                 },
@@ -345,26 +345,18 @@
                     "removeCutawayGeometry": true
                 },
                 {
-                    "atomType": "Stl",
-                    "name": "Stl",
-                    "x": 811,
-                    "y": 67,
-                    "uniqueID": 304787,
+                    "atomType": "Cut Layout",
+                    "name": "Cut Layout",
+                    "x": 770,
+                    "y": 233,
+                    "uniqueID": 530391,
                     "ioValues": []
                 },
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 818,
-                    "y": 164,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Cut Layout",
-                    "name": "Cut Layout",
-                    "x": 852,
-                    "y": 256.8440082644628,
-                    "uniqueID": 530391,
+                    "x": 848,
+                    "y": 60,
                     "ioValues": []
                 }
             ],
@@ -400,15 +392,15 @@
                     "ap2ID": 414773
                 },
                 {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 510492",
-                    "ap1ID": 372066,
-                    "ap2ID": 374901
-                },
-                {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 855178",
                     "ap1ID": 294575,
+                    "ap2ID": 374901
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 510492",
+                    "ap1ID": 372066,
                     "ap2ID": 374901
                 },
                 {
@@ -451,12 +443,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 374901,
                     "ap2ID": 530391
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 374901,
-                    "ap2ID": 304787
                 }
             ],
             "fileTypeVersion": 1
