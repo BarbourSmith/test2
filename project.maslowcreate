@@ -69,13 +69,6 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 818,
-                    "y": 164,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 909,
@@ -100,6 +93,13 @@
                         }
                     ],
                     "removeCutawayGeometry": false
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 944,
+                    "y": 164,
+                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -355,8 +355,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 848,
-                    "y": 60,
+                    "x": 944,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
