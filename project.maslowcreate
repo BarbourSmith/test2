@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Molecule",
-            "x": 697,
-            "y": 276,
+            "x": 375.2452830188679,
+            "y": 119.54716981132076,
             "uniqueID": 372066,
             "ioValues": [],
             "topLevel": false,
@@ -249,6 +249,14 @@
                     ]
                 },
                 {
+                    "atomType": "Molecule",
+                    "name": "Molecule",
+                    "x": 375.2452830188679,
+                    "y": 119.54716981132076,
+                    "uniqueID": 372066,
+                    "ioValues": []
+                },
+                {
                     "atomType": "CutList",
                     "name": "Add To Cutlist",
                     "x": 399,
@@ -337,14 +345,6 @@
                     "removeCutawayGeometry": true
                 },
                 {
-                    "atomType": "Molecule",
-                    "name": "Molecule",
-                    "x": 697,
-                    "y": 276,
-                    "uniqueID": 372066,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Cut Layout",
                     "name": "Cut Layout",
                     "x": 864.6694214876032,
@@ -392,6 +392,12 @@
                     "ap2ID": 414773
                 },
                 {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 510492",
+                    "ap1ID": 372066,
+                    "ap2ID": 374901
+                },
+                {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 855178",
                     "ap1ID": 294575,
@@ -437,12 +443,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 374901,
                     "ap2ID": 530391
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 510492",
-                    "ap1ID": 372066,
-                    "ap2ID": 374901
                 }
             ],
             "fileTypeVersion": 1
