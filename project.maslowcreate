@@ -415,33 +415,38 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 834,
-                    "y": 203,
-                    "uniqueID": 884830,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0
-                        }
-                    ]
-                },
-                {
                     "atomType": "CutList",
                     "name": "Add To Cutlist",
                     "x": 952,
                     "y": 76,
                     "uniqueID": 911949,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 931.3084444444444,
+                    "y": 233.13066666666666,
+                    "uniqueID": 820680,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 931.3084444444444,
+                    "y": 233.13066666666666,
+                    "uniqueID": 344413,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
                     "atomType": "Output",
@@ -534,12 +539,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 374901,
                     "ap2ID": 911949
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 374901,
-                    "ap2ID": 884830
                 },
                 {
                     "ap1Name": "Geometry",
