@@ -251,6 +251,21 @@
                 {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
+                    "x": 364,
+                    "y": 263,
+                    "uniqueID": 178716,
+                    "ioValues": [],
+                    "BOMitem": {
+                        "BOMitemName": "From Amazon",
+                        "numberNeeded": 1,
+                        "costUSD": 0,
+                        "source": "www.bmazon.com",
+                        "totalNeeded": 0
+                    }
+                },
+                {
+                    "atomType": "Add BOM Tag",
+                    "name": "Add BOM Tag",
                     "x": 447,
                     "y": 67,
                     "uniqueID": 113400,
@@ -264,19 +279,12 @@
                     }
                 },
                 {
-                    "atomType": "Add BOM Tag",
-                    "name": "Add BOM Tag",
-                    "x": 395,
-                    "y": 263,
-                    "uniqueID": 178716,
-                    "ioValues": [],
-                    "BOMitem": {
-                        "BOMitemName": "From Amazon",
-                        "numberNeeded": 1,
-                        "costUSD": 0,
-                        "source": "www.bmazon.com",
-                        "totalNeeded": 0
-                    }
+                    "atomType": "CutList",
+                    "name": "Add To Cutlist",
+                    "x": 455,
+                    "y": 237,
+                    "uniqueID": 414773,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Color",
@@ -361,8 +369,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1061,
-                    "y": 160,
+                    "x": 1075,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -399,6 +407,12 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 178716,
+                    "ap2ID": 414773
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "3D shape 855178",
                     "ap1ID": 113400,
                     "ap2ID": 374901
@@ -406,7 +420,7 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 178716,
+                    "ap1ID": 414773,
                     "ap2ID": 755316
                 },
                 {
