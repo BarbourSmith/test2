@@ -72,7 +72,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 818,
-                    "y": 164,
+                    "y": 152,
                     "ioValues": []
                 },
                 {
@@ -285,7 +285,7 @@
                     "atomType": "Svg",
                     "name": "Svg",
                     "x": 538,
-                    "y": 289,
+                    "y": 288,
                     "uniqueID": 674998,
                     "ioValues": []
                 },
@@ -348,7 +348,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 818,
-                    "y": 164,
+                    "y": 152,
                     "ioValues": []
                 },
                 {
