@@ -204,7 +204,7 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 206,
+                    "x": 198,
                     "y": 143,
                     "uniqueID": 224108,
                     "ioValues": [
@@ -249,40 +249,18 @@
                     ]
                 },
                 {
-                    "atomType": "Add BOM Tag",
-                    "name": "Add BOM Tag",
-                    "x": 378,
-                    "y": 100,
-                    "uniqueID": 113400,
-                    "ioValues": [],
-                    "BOMitem": {
-                        "BOMitemName": "Thing two",
-                        "numberNeeded": 1,
-                        "costUSD": 0,
-                        "source": "www.amazon.com",
-                        "totalNeeded": 0
-                    }
-                },
-                {
-                    "atomType": "Add BOM Tag",
-                    "name": "Add BOM Tag",
-                    "x": 364,
-                    "y": 263,
-                    "uniqueID": 178716,
-                    "ioValues": [],
-                    "BOMitem": {
-                        "BOMitemName": "From Amazon",
-                        "numberNeeded": 1,
-                        "costUSD": 0,
-                        "source": "www.bmazon.com",
-                        "totalNeeded": 0
-                    }
+                    "atomType": "CutList",
+                    "name": "Add To Cutlist",
+                    "x": 458,
+                    "y": 55,
+                    "uniqueID": 294575,
+                    "ioValues": []
                 },
                 {
                     "atomType": "CutList",
                     "name": "Add To Cutlist",
-                    "x": 444,
-                    "y": 217,
+                    "x": 416,
+                    "y": 244,
                     "uniqueID": 414773,
                     "ioValues": []
                 },
@@ -294,14 +272,6 @@
                     "uniqueID": 755316,
                     "ioValues": [],
                     "selectedColorIndex": "3"
-                },
-                {
-                    "atomType": "CutList",
-                    "name": "Add To Cutlist",
-                    "x": 562,
-                    "y": 49,
-                    "uniqueID": 294575,
-                    "ioValues": []
                 },
                 {
                     "atomType": "Translate",
@@ -413,25 +383,19 @@
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 308579,
-                    "ap2ID": 113400
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 345423,
-                    "ap2ID": 178716
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 113400,
                     "ap2ID": 294575
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 178716,
+                    "ap1ID": 345423,
                     "ap2ID": 414773
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 855178",
+                    "ap1ID": 294575,
+                    "ap2ID": 374901
                 },
                 {
                     "ap1Name": "geometry",
@@ -449,12 +413,6 @@
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 782300",
                     "ap1ID": 755316,
-                    "ap2ID": 374901
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 855178",
-                    "ap1ID": 294575,
                     "ap2ID": 374901
                 },
                 {

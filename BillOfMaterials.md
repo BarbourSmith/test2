@@ -2,8 +2,6 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Thing two|1|$0.00|www.amazon.com|
-|From Amazon|2|$0.00|www.bmazon.com|
-|Total: |3|$0.00| |
+|Total: |0|$0.00| |
 
  3xCOG MSRP: $0.00
