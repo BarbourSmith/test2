@@ -63,8 +63,8 @@
                 {
                     "atomType": "OvercutInsideCorners",
                     "name": "Overcut Inside Corners",
-                    "x": 495,
-                    "y": 221,
+                    "x": 497,
+                    "y": 222,
                     "uniqueID": 468388,
                     "ioValues": [
                         {
@@ -101,10 +101,6 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 307669",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "3D shape 855178",
                             "ioValue": 10
                         },
@@ -114,6 +110,10 @@
                         },
                         {
                             "name": "3D shape 782300",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 307669",
                             "ioValue": 10
                         }
                     ],
