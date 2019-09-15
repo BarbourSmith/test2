@@ -230,8 +230,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 327,
-                    "y": 197,
+                    "x": 290,
+                    "y": 181,
                     "uniqueID": 345423,
                     "ioValues": [
                         {
@@ -292,8 +292,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 594,
-                    "y": 233,
+                    "x": 626,
+                    "y": 217,
                     "uniqueID": 606713,
                     "ioValues": [
                         {
