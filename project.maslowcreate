@@ -42,8 +42,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 353,
-                    "y": 74,
+                    "x": 399,
+                    "y": 68,
                     "uniqueID": 345423,
                     "ioValues": [
                         {
@@ -63,8 +63,8 @@
                 {
                     "atomType": "OvercutInsideCorners",
                     "name": "Overcut Inside Corners",
-                    "x": 509,
-                    "y": 198,
+                    "x": 495,
+                    "y": 221,
                     "uniqueID": 468388,
                     "ioValues": [
                         {
