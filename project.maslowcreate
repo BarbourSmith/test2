@@ -74,90 +74,6 @@
                     ]
                 },
                 {
-                    "atomType": "Assembly",
-                    "name": "Assembly",
-                    "x": 688,
-                    "y": 94,
-                    "uniqueID": 374901,
-                    "ioValues": [
-                        {
-                            "name": "3D shape 738889",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 855178",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 510492",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 782300",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 738889",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 855178",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 510492",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 782300",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 307669",
-                            "ioValue": 10
-                        }
-                    ],
-                    "removeCutawayGeometry": true
-                },
-                {
-                    "atomType": "Rectangle",
-                    "name": "Rectangle",
-                    "x": 715,
-                    "y": 183,
-                    "uniqueID": 986340,
-                    "ioValues": [
-                        {
-                            "name": "x length",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "y length",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Circle",
-                    "name": "Circle",
-                    "x": 718,
-                    "y": 281,
-                    "uniqueID": 494880,
-                    "ioValues": [
-                        {
-                            "name": "diameter",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Difference",
-                    "name": "Difference",
-                    "x": 877,
-                    "y": 224,
-                    "uniqueID": 806809,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -180,12 +96,6 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 307669",
-                    "ap1ID": 345423,
-                    "ap2ID": 374901
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 345423,
                     "ap2ID": 468388
@@ -193,19 +103,7 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
-                    "ap1ID": 374901
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry1",
-                    "ap1ID": 986340,
-                    "ap2ID": 806809
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry2",
-                    "ap1ID": 494880,
-                    "ap2ID": 806809
+                    "ap1ID": 345423
                 }
             ],
             "fileTypeVersion": 1
