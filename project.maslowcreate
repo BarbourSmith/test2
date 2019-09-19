@@ -202,8 +202,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 771,
-                    "y": 181,
+                    "x": 752,
+                    "y": 111,
                     "uniqueID": 224108,
                     "ioValues": [
                         {
@@ -211,6 +211,40 @@
                             "ioValue": 3
                         }
                     ]
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 842,
+                    "y": 205,
+                    "uniqueID": 262032,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 932279",
+                            "ioValue": ""
+                        },
+                        {
+                            "name": "3D shape 207336",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 360237",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 570909",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 209432",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 932279",
+                            "ioValue": 10
+                        }
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Output",
@@ -265,6 +299,12 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "3D shape 209432",
+                    "ap1ID": 500076,
+                    "ap2ID": 262032
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "3D shape 426070",
                     "ap1ID": 764169,
                     "ap2ID": 776466
@@ -283,6 +323,12 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "3D shape 360237",
+                    "ap1ID": 776466,
+                    "ap2ID": 262032
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "geometry1",
                     "ap1ID": 615630,
                     "ap2ID": 123792
@@ -295,6 +341,12 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "3D shape 570909",
+                    "ap1ID": 859808,
+                    "ap2ID": 262032
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 123792,
                     "ap2ID": 224108
@@ -303,6 +355,12 @@
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 224108
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 207336",
+                    "ap1ID": 224108,
+                    "ap2ID": 262032
                 }
             ],
             "fileTypeVersion": 1
