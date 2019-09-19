@@ -224,6 +224,10 @@
                             "ioValue": ""
                         },
                         {
+                            "name": "3D shape 932279",
+                            "ioValue": 10
+                        },
+                        {
                             "name": "3D shape 207336",
                             "ioValue": 10
                         },
@@ -238,10 +242,6 @@
                         {
                             "name": "3D shape 209432",
                             "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 932279",
-                            "ioValue": 10
                         }
                     ],
                     "removeCutawayGeometry": true
@@ -249,7 +249,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 944,
                     "y": 164,
                     "ioValues": []
                 }
