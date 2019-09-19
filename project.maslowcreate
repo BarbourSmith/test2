@@ -192,25 +192,29 @@
                     ]
                 },
                 {
-                    "atomType": "OvercutInsideCorners",
-                    "name": "Overcut Inside Corners",
-                    "x": 637,
-                    "y": 286,
-                    "uniqueID": 422073,
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 666,
+                    "y": 64,
+                    "uniqueID": 123792,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 704,
+                    "y": 246,
+                    "uniqueID": 533971,
                     "ioValues": [
                         {
-                            "name": "diameter",
+                            "name": "x length",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "y length",
                             "ioValue": 10
                         }
                     ]
-                },
-                {
-                    "atomType": "Difference",
-                    "name": "Difference",
-                    "x": 710,
-                    "y": 235,
-                    "uniqueID": 123792,
-                    "ioValues": []
                 },
                 {
                     "atomType": "Extrude",
@@ -226,14 +230,14 @@
                     ]
                 },
                 {
-                    "atomType": "OvercutInsideCorners",
-                    "name": "Overcut Inside Corners",
-                    "x": 880,
-                    "y": 210,
-                    "uniqueID": 468388,
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 847,
+                    "y": 190,
+                    "uniqueID": 470796,
                     "ioValues": [
                         {
-                            "name": "diameter",
+                            "name": "height",
                             "ioValue": 10
                         }
                     ]
@@ -322,25 +326,19 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 227208,
-                    "ap2ID": 422073
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
                     "ap1ID": 123792,
                     "ap2ID": 224108
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 224108
+                    "ap2Name": "geometry",
+                    "ap1ID": 533971,
+                    "ap2ID": 470796
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 224108,
-                    "ap2ID": 468388
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 224108
                 }
             ],
             "fileTypeVersion": 1
