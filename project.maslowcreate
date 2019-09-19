@@ -181,8 +181,8 @@
                 {
                     "atomType": "Constant",
                     "name": "Constant",
-                    "x": 446,
-                    "y": 272,
+                    "x": 447,
+                    "y": 292,
                     "uniqueID": 626837,
                     "ioValues": [
                         {
@@ -200,10 +200,28 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Equation",
+                    "name": "Equation",
+                    "x": 683,
+                    "y": 255,
+                    "uniqueID": 407735,
+                    "ioValues": [
+                        {
+                            "name": "x",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "y",
+                            "ioValue": 10
+                        }
+                    ],
+                    "currentEquation": "x+y"
+                },
+                {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 752,
-                    "y": 111,
+                    "x": 781,
+                    "y": 138,
                     "uniqueID": 224108,
                     "ioValues": [
                         {
@@ -211,20 +229,6 @@
                             "ioValue": 3
                         }
                     ]
-                },
-                {
-                    "atomType": "Equation",
-                    "name": "Equation",
-                    "x": 795,
-                    "y": 244,
-                    "uniqueID": 407735,
-                    "ioValues": [
-                        {
-                            "name": "x",
-                            "ioValue": 1
-                        }
-                    ],
-                    "currentEquation": "x"
                 },
                 {
                     "atomType": "Output",
@@ -304,8 +308,14 @@
                 {
                     "ap1Name": "number",
                     "ap2Name": "y",
+                    "ap1ID": 622122,
+                    "ap2ID": 407735
+                },
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "x",
                     "ap1ID": 626837,
-                    "ap2ID": 856950
+                    "ap2ID": 407735
                 },
                 {
                     "ap1Name": "geometry",
