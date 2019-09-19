@@ -149,19 +149,6 @@
                     "removeCutawayGeometry": true
                 },
                 {
-                    "atomType": "Circle",
-                    "name": "Circle",
-                    "x": 355,
-                    "y": 276,
-                    "uniqueID": 859808,
-                    "ioValues": [
-                        {
-                            "name": "diameter",
-                            "ioValue": 20
-                        }
-                    ]
-                },
-                {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
                     "x": 450,
@@ -179,10 +166,23 @@
                     ]
                 },
                 {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 415,
+                    "y": 278,
+                    "uniqueID": 859808,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 20
+                        }
+                    ]
+                },
+                {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 482,
-                    "y": 267,
+                    "x": 569,
+                    "y": 219,
                     "uniqueID": 227208,
                     "ioValues": [
                         {
@@ -283,15 +283,15 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 859808,
-                    "ap2ID": 227208
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "geometry1",
                     "ap1ID": 615630,
                     "ap2ID": 123792
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 859808,
+                    "ap2ID": 227208
                 },
                 {
                     "ap1Name": "geometry",
