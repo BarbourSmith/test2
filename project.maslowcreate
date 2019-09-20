@@ -168,8 +168,8 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 511,
-                    "y": 190,
+                    "x": 516,
+                    "y": 184,
                     "uniqueID": 123792,
                     "ioValues": []
                 },
@@ -185,6 +185,20 @@
                             "ioValue": 9
                         }
                     ]
+                },
+                {
+                    "atomType": "Code",
+                    "name": "Code",
+                    "x": 604,
+                    "y": 269,
+                    "uniqueID": 652163,
+                    "ioValues": [
+                        {
+                            "name": "input name",
+                            "ioValue": 10
+                        }
+                    ],
+                    "code": "//Add an input\n//This.addIO('input', 'input name', This, 'geometry', 10);\n\n//Read back from the input\n//This.findIOValue('radius');\n\n//Set the output\n//This.value = 10;\n\nThis.value = Sphere(10)"
                 },
                 {
                     "atomType": "Translate",
@@ -204,19 +218,6 @@
                         {
                             "name": "zDist",
                             "ioValue": 0
-                        }
-                    ]
-                },
-                {
-                    "atomType": "OvercutInsideCorners",
-                    "name": "Overcut Inside Corners",
-                    "x": 830,
-                    "y": 265,
-                    "uniqueID": 870748,
-                    "ioValues": [
-                        {
-                            "name": "diameter",
-                            "ioValue": 10
                         }
                     ]
                 },
@@ -311,12 +312,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 224108,
                     "ap2ID": 872748
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 872748,
-                    "ap2ID": 870748
                 }
             ],
             "fileTypeVersion": 1
