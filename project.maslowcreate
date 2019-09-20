@@ -203,7 +203,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": -1
+                            "ioValue": 0
                         }
                     ]
                 },
