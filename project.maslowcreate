@@ -176,8 +176,8 @@
                 {
                     "atomType": "OvercutInsideCorners",
                     "name": "Overcut Inside Corners",
-                    "x": 669,
-                    "y": 242,
+                    "x": 640,
+                    "y": 116,
                     "uniqueID": 313708,
                     "ioValues": [
                         {
@@ -195,7 +195,7 @@
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 3
+                            "ioValue": 9
                         }
                     ]
                 },
@@ -278,13 +278,13 @@
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 123792,
-                    "ap2ID": 224108
+                    "ap2ID": 313708
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 123792,
-                    "ap2ID": 313708
+                    "ap1ID": 313708,
+                    "ap2ID": 224108
                 },
                 {
                     "ap1Name": "geometry",
