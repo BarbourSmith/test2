@@ -203,15 +203,15 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 4
                         }
                     ]
                 },
                 {
                     "atomType": "OvercutInsideCorners",
                     "name": "Overcut Inside Corners",
-                    "x": 779,
-                    "y": 214,
+                    "x": 776,
+                    "y": 208,
                     "uniqueID": 870748,
                     "ioValues": [
                         {
