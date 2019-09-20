@@ -187,10 +187,23 @@
                     ]
                 },
                 {
+                    "atomType": "OvercutInsideCorners",
+                    "name": "Overcut Inside Corners",
+                    "x": 611,
+                    "y": 271,
+                    "uniqueID": 870748,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 648,
-                    "y": 265,
+                    "x": 807,
+                    "y": 211,
                     "uniqueID": 872748,
                     "ioValues": [
                         {
@@ -204,19 +217,6 @@
                         {
                             "name": "zDist",
                             "ioValue": 0
-                        }
-                    ]
-                },
-                {
-                    "atomType": "OvercutInsideCorners",
-                    "name": "Overcut Inside Corners",
-                    "x": 776,
-                    "y": 209,
-                    "uniqueID": 870748,
-                    "ioValues": [
-                        {
-                            "name": "diameter",
-                            "ioValue": 10
                         }
                     ]
                 },
