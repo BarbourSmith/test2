@@ -174,6 +174,15 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Code",
+                    "name": "Code",
+                    "x": 519,
+                    "y": 280,
+                    "uniqueID": 652163,
+                    "ioValues": [],
+                    "code": "function main(){\nreturn Sphere(40);\n}\n\nmain()"
+                },
+                {
                     "atomType": "Extrude",
                     "name": "Extrude",
                     "x": 588,
@@ -183,36 +192,6 @@
                         {
                             "name": "height",
                             "ioValue": 9
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Code",
-                    "name": "Code",
-                    "x": 558,
-                    "y": 279,
-                    "uniqueID": 652163,
-                    "ioValues": [],
-                    "code": "Cube(10);"
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 705,
-                    "y": 275,
-                    "uniqueID": 617005,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 20
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0
                         }
                     ]
                 },
@@ -230,6 +209,27 @@
                         {
                             "name": "yDist",
                             "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 792,
+                    "y": 262,
+                    "uniqueID": 617005,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 20
                         },
                         {
                             "name": "zDist",
@@ -320,6 +320,12 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 652163,
+                    "ap2ID": 617005
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 224108
                 },
@@ -328,12 +334,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 224108,
                     "ap2ID": 872748
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 652163,
-                    "ap2ID": 617005
                 }
             ],
             "fileTypeVersion": 1
