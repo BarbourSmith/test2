@@ -18,11 +18,11 @@
                     "ioValues": [
                         {
                             "name": "x length",
-                            "ioValue": 5
+                            "ioValue": 50
                         },
                         {
                             "name": "y length",
-                            "ioValue": 5
+                            "ioValue": 50
                         }
                     ]
                 },
@@ -39,7 +39,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 15
+                            "ioValue": 150
                         },
                         {
                             "name": "zDist",
@@ -56,7 +56,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 15
+                            "ioValue": 150
                         },
                         {
                             "name": "yDist",
@@ -77,7 +77,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -15
+                            "ioValue": -150
                         },
                         {
                             "name": "yDist",
@@ -102,7 +102,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -15
+                            "ioValue": -150
                         },
                         {
                             "name": "zDist",
@@ -113,8 +113,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 408,
-                    "y": 166,
+                    "x": 404,
+                    "y": 154,
                     "uniqueID": 776466,
                     "ioValues": [
                         {
@@ -151,77 +151,46 @@
                 {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
-                    "x": 450,
-                    "y": 66,
+                    "x": 407,
+                    "y": 240,
                     "uniqueID": 615630,
                     "ioValues": [
                         {
                             "name": "x length",
-                            "ioValue": 30
+                            "ioValue": 300
                         },
                         {
                             "name": "y length",
-                            "ioValue": 30
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Constant",
-                    "name": "Constant",
-                    "x": 446,
-                    "y": 245,
-                    "uniqueID": 622122,
-                    "ioValues": [
-                        {
-                            "name": "number",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Constant",
-                    "name": "Constant",
-                    "x": 447,
-                    "y": 292,
-                    "uniqueID": 626837,
-                    "ioValues": [
-                        {
-                            "name": "number",
-                            "ioValue": 10
+                            "ioValue": 300
                         }
                     ]
                 },
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 666,
-                    "y": 64,
+                    "x": 511,
+                    "y": 190,
                     "uniqueID": 123792,
                     "ioValues": []
                 },
                 {
-                    "atomType": "Equation",
-                    "name": "Equation",
-                    "x": 683,
-                    "y": 255,
-                    "uniqueID": 407735,
+                    "atomType": "OvercutInsideCorners",
+                    "name": "Overcut Inside Corners",
+                    "x": 669,
+                    "y": 242,
+                    "uniqueID": 313708,
                     "ioValues": [
                         {
-                            "name": "x",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "y",
+                            "name": "diameter",
                             "ioValue": 10
                         }
-                    ],
-                    "currentEquation": "x+y"
+                    ]
                 },
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 781,
-                    "y": 138,
+                    "x": 779,
+                    "y": 144,
                     "uniqueID": 224108,
                     "ioValues": [
                         {
@@ -306,22 +275,16 @@
                     "ap2ID": 123792
                 },
                 {
-                    "ap1Name": "number",
-                    "ap2Name": "y",
-                    "ap1ID": 622122,
-                    "ap2ID": 407735
-                },
-                {
-                    "ap1Name": "number",
-                    "ap2Name": "x",
-                    "ap1ID": 626837,
-                    "ap2ID": 407735
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 123792,
+                    "ap2ID": 224108
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 123792,
-                    "ap2ID": 224108
+                    "ap2ID": 313708
                 },
                 {
                     "ap1Name": "geometry",
