@@ -203,14 +203,14 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 30
+                            "ioValue": 0
                         }
                     ]
                 },
                 {
                     "atomType": "OvercutInsideCorners",
                     "name": "Overcut Inside Corners",
-                    "x": 779,
+                    "x": 776,
                     "y": 209,
                     "uniqueID": 870748,
                     "ioValues": [
@@ -303,6 +303,12 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 123792,
+                    "ap2ID": 870748
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 224108
                 },
@@ -311,12 +317,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 224108,
                     "ap2ID": 872748
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 872748,
-                    "ap2ID": 870748
                 }
             ],
             "fileTypeVersion": 1
