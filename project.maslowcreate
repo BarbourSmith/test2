@@ -174,6 +174,15 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Code",
+                    "name": "Code",
+                    "x": 493.0398406374502,
+                    "y": 290.0816733067729,
+                    "uniqueID": 518708,
+                    "ioValues": [],
+                    "code": "function main(){\n  return Sphere(40)//return must be geometry;\n}\n\nmain()"
+                },
+                {
                     "atomType": "Extrude",
                     "name": "Extrude",
                     "x": 588,
@@ -189,8 +198,8 @@
                 {
                     "atomType": "Code",
                     "name": "Code",
-                    "x": 552,
-                    "y": 247,
+                    "x": 616.7948207171315,
+                    "y": 216.8187250996016,
                     "uniqueID": 652163,
                     "ioValues": [],
                     "code": "function main(){\nreturn Sphere(40);\n}\n\nmain()"
