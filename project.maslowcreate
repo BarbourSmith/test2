@@ -176,8 +176,8 @@
                 {
                     "atomType": "Code",
                     "name": "Code",
-                    "x": 493.0398406374502,
-                    "y": 290.0816733067729,
+                    "x": 530,
+                    "y": 282,
                     "uniqueID": 518708,
                     "ioValues": [],
                     "code": "function main(){\n  return Sphere(40)//return must be geometry;\n}\n\nmain()"
@@ -249,7 +249,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 944,
+                    "x": 954,
                     "y": 164,
                     "ioValues": []
                 }
