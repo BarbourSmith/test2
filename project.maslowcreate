@@ -174,15 +174,6 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Code",
-                    "name": "Code",
-                    "x": 519,
-                    "y": 280,
-                    "uniqueID": 652163,
-                    "ioValues": [],
-                    "code": "function main(){\nreturn Sphere(40);\n}\n\nmain()"
-                },
-                {
                     "atomType": "Extrude",
                     "name": "Extrude",
                     "x": 588,
@@ -194,6 +185,15 @@
                             "ioValue": 9
                         }
                     ]
+                },
+                {
+                    "atomType": "Code",
+                    "name": "Code",
+                    "x": 552,
+                    "y": 247,
+                    "uniqueID": 652163,
+                    "ioValues": [],
+                    "code": "function main(){\nreturn Sphere(40);\n}\n\nmain()"
                 },
                 {
                     "atomType": "Translate",
@@ -219,8 +219,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 792,
-                    "y": 262,
+                    "x": 780,
+                    "y": 273,
                     "uniqueID": 617005,
                     "ioValues": [
                         {
@@ -320,12 +320,6 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 652163,
-                    "ap2ID": 617005
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 224108
                 },
@@ -334,6 +328,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 224108,
                     "ap2ID": 872748
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 652163,
+                    "ap2ID": 617005
                 }
             ],
             "fileTypeVersion": 1
