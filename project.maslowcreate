@@ -189,8 +189,8 @@
                 {
                     "atomType": "OvercutInsideCorners",
                     "name": "Overcut Inside Corners",
-                    "x": 674,
-                    "y": 250,
+                    "x": 655,
+                    "y": 244,
                     "uniqueID": 317649,
                     "ioValues": [
                         {
