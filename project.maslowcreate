@@ -187,17 +187,13 @@
                     ]
                 },
                 {
-                    "atomType": "OvercutInsideCorners",
-                    "name": "Overcut Inside Corners",
-                    "x": 622,
-                    "y": 244,
-                    "uniqueID": 317649,
-                    "ioValues": [
-                        {
-                            "name": "diameter",
-                            "ioValue": 10
-                        }
-                    ]
+                    "atomType": "Code",
+                    "name": "Code",
+                    "x": 640,
+                    "y": 263,
+                    "uniqueID": 738348,
+                    "ioValues": [],
+                    "code": "//You can learn more about all of the available methods at https://jsxcad.js.org/app/UserGuide.html \n\n\nfunction main(Input1, Input2){\n  console.log(assemble(Cube(10), Sphere(30).translate(10,20,20)))\n  return Sphere(40)        //return must be geometry;\n}\n\nmain(inputs.Input1, inputs.Input2)"
                 },
                 {
                     "atomType": "Assembly",
@@ -207,7 +203,7 @@
                     "uniqueID": 336088,
                     "ioValues": [
                         {
-                            "name": "3D shape 822335",
+                            "name": "3D shape 611577",
                             "ioValue": ""
                         },
                         {
@@ -215,11 +211,7 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 513756",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 822335",
+                            "name": "3D shape 611577",
                             "ioValue": 10
                         }
                     ],
@@ -308,12 +300,6 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 123792,
-                    "ap2ID": 317649
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "3D shape 354137",
                     "ap1ID": 123792,
                     "ap2ID": 336088
@@ -322,12 +308,6 @@
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 224108
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 513756",
-                    "ap1ID": 317649,
-                    "ap2ID": 336088
                 }
             ],
             "fileTypeVersion": 1
