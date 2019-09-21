@@ -189,8 +189,8 @@
                 {
                     "atomType": "Code",
                     "name": "Code",
-                    "x": 597,
-                    "y": 273,
+                    "x": 598,
+                    "y": 281,
                     "uniqueID": 658217,
                     "ioValues": [],
                     "code": "function main(Input1, Input2){\n  return Sphere(40)//return must be geometry;\n}\n\nmain(Input1, Input2)"
@@ -219,8 +219,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 780,
-                    "y": 273,
+                    "x": 819,
+                    "y": 277,
                     "uniqueID": 617005,
                     "ioValues": [
                         {
