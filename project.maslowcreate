@@ -187,19 +187,10 @@
                     ]
                 },
                 {
-                    "atomType": "Code",
-                    "name": "Code",
-                    "x": 640,
-                    "y": 263,
-                    "uniqueID": 738348,
-                    "ioValues": [],
-                    "code": "//You can learn more about all of the available methods at https://jsxcad.js.org/app/UserGuide.html \n\n\nfunction main(Input1, Input2){\n  console.log(assemble(Cube(10), Sphere(30).translate(10,20,20)))\n  return Sphere(40)        //return must be geometry;\n}\n\nmain(inputs.Input1, inputs.Input2)"
-                },
-                {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 726,
-                    "y": 194,
+                    "x": 648,
+                    "y": 218,
                     "uniqueID": 336088,
                     "ioValues": [
                         {
@@ -216,6 +207,15 @@
                         }
                     ],
                     "removeCutawayGeometry": true
+                },
+                {
+                    "atomType": "Code",
+                    "name": "Code",
+                    "x": 679,
+                    "y": 280,
+                    "uniqueID": 738348,
+                    "ioValues": [],
+                    "code": "//You can learn more about all of the available methods at https://jsxcad.js.org/app/UserGuide.html \n\n\nfunction main(Input1, Input2){\n  console.log(assemble(Cube(10), Sphere(30).translate(10,20,20)))\n  return Sphere(40)        //return must be geometry;\n}\n\nmain(inputs.Input1, inputs.Input2)"
                 },
                 {
                     "atomType": "Output",
