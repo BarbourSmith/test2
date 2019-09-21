@@ -174,15 +174,6 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Code",
-                    "name": "Code",
-                    "x": 530,
-                    "y": 282,
-                    "uniqueID": 518708,
-                    "ioValues": [],
-                    "code": "function main(){\n  return Sphere(40)//return must be geometry;\n}\n\nmain()"
-                },
-                {
                     "atomType": "Extrude",
                     "name": "Extrude",
                     "x": 588,
@@ -198,11 +189,11 @@
                 {
                     "atomType": "Code",
                     "name": "Code",
-                    "x": 616.7948207171315,
-                    "y": 216.8187250996016,
-                    "uniqueID": 652163,
+                    "x": 597,
+                    "y": 273,
+                    "uniqueID": 658217,
                     "ioValues": [],
-                    "code": "function main(){\nreturn Sphere(40);\n}\n\nmain()"
+                    "code": "function main(Input1, Input2){\n  return Sphere(40)//return must be geometry;\n}\n\nmain(Input1, Input2)"
                 },
                 {
                     "atomType": "Translate",
@@ -232,6 +223,10 @@
                     "y": 273,
                     "uniqueID": 617005,
                     "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
                         {
                             "name": "xDist",
                             "ioValue": 0
@@ -337,12 +332,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 224108,
                     "ap2ID": 872748
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 652163,
-                    "ap2ID": 617005
                 }
             ],
             "fileTypeVersion": 1
