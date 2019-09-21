@@ -174,7 +174,7 @@
                     "ioValues": [
                         {
                             "name": "number",
-                            "ioValue": 10
+                            "ioValue": 30
                         }
                     ]
                 },
@@ -202,16 +202,16 @@
                 {
                     "atomType": "Code",
                     "name": "Code",
-                    "x": 607,
-                    "y": 248,
-                    "uniqueID": 825973,
+                    "x": 677,
+                    "y": 277,
+                    "uniqueID": 428570,
                     "ioValues": [
                         {
                             "name": "Input1",
-                            "ioValue": 10
+                            "ioValue": 30
                         }
                     ],
-                    "code": "function main(Input1, Input2){\n  return Sphere(Input1)//return must be geometry;\n}\n\nmain(inputs.Input1, inputs.Input2)"
+                    "code": "function main(Input1, Input2){\n  return Input1.translate(10,10,10)//return must be geometry;\n}\n\nmain(inputs.Input1, inputs.Input2)"
                 },
                 {
                     "atomType": "Translate",
@@ -313,7 +313,7 @@
                     "ap1Name": "number",
                     "ap2Name": "Input1",
                     "ap1ID": 352254,
-                    "ap2ID": 825973
+                    "ap2ID": 428570
                 },
                 {
                     "ap1Name": "geometry",
