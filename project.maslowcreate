@@ -187,23 +187,15 @@
                     ]
                 },
                 {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 755,
-                    "y": 206,
-                    "uniqueID": 872748,
+                    "atomType": "OvercutInsideCorners",
+                    "name": "Overcut Inside Corners",
+                    "x": 674,
+                    "y": 250,
+                    "uniqueID": 317649,
                     "ioValues": [
                         {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0
+                            "name": "diameter",
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -290,14 +282,14 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 224108
+                    "ap2Name": "geometry",
+                    "ap1ID": 123792,
+                    "ap2ID": 317649
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 224108,
-                    "ap2ID": 872748
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 224108
                 }
             ],
             "fileTypeVersion": 1
