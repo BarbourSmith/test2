@@ -187,6 +187,19 @@
                     ]
                 },
                 {
+                    "atomType": "OvercutInsideCorners",
+                    "name": "Overcut Inside Corners",
+                    "x": 573,
+                    "y": 276,
+                    "uniqueID": 415520,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 648,
@@ -207,15 +220,6 @@
                         }
                     ],
                     "removeCutawayGeometry": true
-                },
-                {
-                    "atomType": "Code",
-                    "name": "Code",
-                    "x": 762,
-                    "y": 270,
-                    "uniqueID": 497064,
-                    "ioValues": [],
-                    "code": "//You can learn more about all of the available methods at https://jsxcad.js.org/app/UserGuide.html \n\n\nfunction main(input1, input2){\n  console.log(\"This ran\")\n  return assemble(Sphere(40), Cube(10).translate(60,0,0))        //return must be geometry;\n}\n\nreturn main(input1, input2)"
                 },
                 {
                     "atomType": "Output",
@@ -303,6 +307,12 @@
                     "ap2Name": "3D shape 354137",
                     "ap1ID": 123792,
                     "ap2ID": 336088
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 123792,
+                    "ap2ID": 415520
                 },
                 {
                     "ap1Name": "geometry",
