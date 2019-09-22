@@ -211,11 +211,11 @@
                 {
                     "atomType": "Code",
                     "name": "Code",
-                    "x": 798,
-                    "y": 278,
+                    "x": 778,
+                    "y": 256,
                     "uniqueID": 497064,
                     "ioValues": [],
-                    "code": "//You can learn more about all of the available methods at https://jsxcad.js.org/app/UserGuide.html \n\n\nfunction main(){\n  console.log(\"This ran\")\n  return assemble(Sphere(40), Cube(10).translate(60,0,0))        //return must be geometry;\n}\n\nreturn main()"
+                    "code": "//You can learn more about all of the available methods at https://jsxcad.js.org/app/UserGuide.html \n\n\nfunction main(input1, input2){\n  console.log(\"This ran\")\n  console.log(input1)\n  return assemble(Sphere(40), Cube(10).translate(60,0,0))        //return must be geometry;\n}\n\nreturn main(inputs.input1, inputs.input2)"
                 },
                 {
                     "atomType": "Output",
