@@ -194,8 +194,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 760,
-                    "y": 233,
+                    "x": 744,
+                    "y": 228,
                     "uniqueID": 336088,
                     "ioValues": [
                         {
@@ -216,8 +216,8 @@
                 {
                     "atomType": "Constant",
                     "name": "Constant",
-                    "x": 880,
-                    "y": 88,
+                    "x": 879,
+                    "y": 110,
                     "uniqueID": 715532,
                     "ioValues": [
                         {
@@ -229,8 +229,8 @@
                 {
                     "atomType": "Input",
                     "name": "Input274589",
-                    "x": 911,
-                    "y": 184,
+                    "x": 965,
+                    "y": 225,
                     "uniqueID": 961893,
                     "ioValues": [
                         {
@@ -242,8 +242,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1310,
-                    "y": 162,
+                    "x": 1272,
+                    "y": 148,
                     "ioValues": []
                 }
             ],
