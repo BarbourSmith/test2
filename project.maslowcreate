@@ -3,30 +3,25 @@
         {
             "atomType": "Molecule",
             "name": "Molecule",
-            "x": 605,
-            "y": 262,
+            "x": 607,
+            "y": 282,
             "uniqueID": 861307,
-            "ioValues": [
-                {
-                    "name": "Input394113",
-                    "ioValue": 10
-                }
-            ],
+            "ioValues": [],
             "topLevel": false,
             "allAtoms": [
                 {
                     "atomType": "Input",
                     "name": "Input394113",
-                    "x": 98,
-                    "y": 94,
+                    "x": 119,
+                    "y": 85,
                     "uniqueID": 373660,
                     "ioValues": []
                 },
                 {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
-                    "x": 174,
-                    "y": 227,
+                    "x": 105,
+                    "y": 256,
                     "uniqueID": 135667,
                     "ioValues": [
                         {
@@ -44,12 +39,7 @@
                     "name": "Output",
                     "x": 954,
                     "y": 164,
-                    "ioValues": [
-                        {
-                            "name": "number or geometry",
-                            "ioValue": 10
-                        }
-                    ]
+                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -240,8 +230,8 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 516,
-                    "y": 184,
+                    "x": 518,
+                    "y": 181,
                     "uniqueID": 123792,
                     "ioValues": []
                 },
@@ -261,15 +251,10 @@
                 {
                     "atomType": "Molecule",
                     "name": "Molecule",
-                    "x": 605,
-                    "y": 262,
+                    "x": 607,
+                    "y": 282,
                     "uniqueID": 861307,
-                    "ioValues": [
-                        {
-                            "name": "Input394113",
-                            "ioValue": 10
-                        }
-                    ]
+                    "ioValues": []
                 },
                 {
                     "atomType": "Assembly",
