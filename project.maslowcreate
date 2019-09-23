@@ -2,6 +2,73 @@
     "molecules": [
         {
             "atomType": "Molecule",
+            "name": "Molecule",
+            "x": 603,
+            "y": 284,
+            "uniqueID": 861307,
+            "ioValues": [
+                {
+                    "name": "Input394113",
+                    "ioValue": 10
+                }
+            ],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Input",
+                    "name": "Input394113",
+                    "x": 98,
+                    "y": 94,
+                    "uniqueID": 373660,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 174,
+                    "y": 227,
+                    "uniqueID": 135667,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 954,
+                    "y": 164,
+                    "ioValues": [
+                        {
+                            "name": "number or geometry",
+                            "ioValue": 10
+                        }
+                    ]
+                }
+            ],
+            "allConnectors": [
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 373660
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "default value",
+                    "ap1ID": 135667,
+                    "ap2ID": 373660
+                }
+            ],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Test 2",
             "x": 0,
             "y": 0,
@@ -192,6 +259,19 @@
                     ]
                 },
                 {
+                    "atomType": "Molecule",
+                    "name": "Molecule",
+                    "x": 603,
+                    "y": 284,
+                    "uniqueID": 861307,
+                    "ioValues": [
+                        {
+                            "name": "Input394113",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 744,
@@ -242,7 +322,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 954,
                     "y": 164,
                     "ioValues": []
                 }
