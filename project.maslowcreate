@@ -229,8 +229,8 @@
                 {
                     "atomType": "Input",
                     "name": "Input274589",
-                    "x": 965,
-                    "y": 225,
+                    "x": 932,
+                    "y": 248,
                     "uniqueID": 961893,
                     "ioValues": [
                         {
@@ -242,8 +242,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1272,
-                    "y": 148,
+                    "x": 1316,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
