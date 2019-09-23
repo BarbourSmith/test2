@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Molecule",
-            "x": 603,
-            "y": 284,
+            "x": 605,
+            "y": 262,
             "uniqueID": 861307,
             "ioValues": [
                 {
@@ -261,8 +261,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Molecule",
-                    "x": 603,
-                    "y": 284,
+                    "x": 605,
+                    "y": 262,
                     "uniqueID": 861307,
                     "ioValues": [
                         {
