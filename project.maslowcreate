@@ -6,7 +6,12 @@
             "x": 607,
             "y": 282,
             "uniqueID": 861307,
-            "ioValues": [],
+            "ioValues": [
+                {
+                    "name": "Input394113",
+                    "ioValue": 10
+                }
+            ],
             "topLevel": false,
             "allAtoms": [
                 {
@@ -37,9 +42,14 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 954,
+                    "x": 1316,
                     "y": 164,
-                    "ioValues": []
+                    "ioValues": [
+                        {
+                            "name": "number or geometry",
+                            "ioValue": 10
+                        }
+                    ]
                 }
             ],
             "allConnectors": [
@@ -180,14 +190,6 @@
                     "uniqueID": 776466,
                     "ioValues": [
                         {
-                            "name": "3D shape 961046",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 961046",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "3D shape 692915",
                             "ioValue": 10
                         },
@@ -254,7 +256,12 @@
                     "x": 607,
                     "y": 282,
                     "uniqueID": 861307,
-                    "ioValues": []
+                    "ioValues": [
+                        {
+                            "name": "Input394113",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
                     "atomType": "Assembly",
@@ -263,14 +270,6 @@
                     "y": 228,
                     "uniqueID": 336088,
                     "ioValues": [
-                        {
-                            "name": "3D shape 611577",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 611577",
-                            "ioValue": 10
-                        },
                         {
                             "name": "3D shape 354137",
                             "ioValue": 10
@@ -307,7 +306,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 954,
+                    "x": 1316,
                     "y": 164,
                     "ioValues": []
                 }
